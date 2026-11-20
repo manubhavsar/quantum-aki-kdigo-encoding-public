@@ -1,0 +1,8 @@
+h=24 LR  delta        (8 feat) AUROC=0.698 [0.649,0.745]  1s
+h=24 LR  delta+curv4  (12 feat) AUROC=0.729 [0.680,0.776]  1s
+h=24 VQC delta        (8 feat) AUROC=0.667 [0.616,0.715]  83s
+h=24 VQC delta+curv4  (12 feat) AUROC=0.674 [0.626,0.723]  873s
+h=48 LR  delta        (8 feat) AUROC=0.651 [0.609,0.690]  1s
+h=48 LR  delta+curv4  (12 feat) AUROC=0.676 [0.636,0.722]  1s
+h=48 VQC delta        (8 feat) AUROC=0.621 [0.577,0.662]  56s
+h=48 VQC delta+curv4  (12 feat) AUROC=0.642 [0.594,0.682]  751s

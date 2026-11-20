@@ -1,0 +1,6 @@
+h=12 static TabTransformer AUROC=0.567 [0.510,0.617] AUPRC=0.045 params=2545
+h=12 delta  TabTransformer AUROC=0.652 [0.597,0.705] AUPRC=0.078 params=2545
+h=24 static TabTransformer AUROC=0.587 [0.534,0.634] AUPRC=0.103 params=2545
+h=24 delta  TabTransformer AUROC=0.664 [0.617,0.711] AUPRC=0.180 params=2545
+h=48 static TabTransformer AUROC=0.549 [0.496,0.601] AUPRC=0.188 params=2545
+h=48 delta  TabTransformer AUROC=0.645 [0.602,0.685] AUPRC=0.251 params=2545

@@ -1,0 +1,5 @@
+h=12  quantum gate=0.680   classical gate=0.669 [0.623,0.713]   diff=+0.012  p=0.5752  (27s)
+h=24  quantum gate=0.651   classical gate=0.610 [0.555,0.658]   diff=+0.042  p=0.0023* (18s)
+h=48  quantum gate=0.635   classical gate=0.646 [0.596,0.693]   diff=-0.011  p=0.3743  (13s)
+
+quantum gate ahead at 2/3 horizons; significant at 1

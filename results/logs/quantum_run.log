@@ -1,0 +1,14 @@
+h=12 static  VQC   AUROC=0.572 [0.524,0.623] AUPRC=0.045 picks=[(1.0, 3), (1.5, 2)] (936s)
+h=12 static  QSVM  AUROC=0.592 [0.533,0.641] AUPRC=0.057 picks=[(0.3, 0.1), (0.6, 10.0)] (220s)
+h=12 delta   VQC   AUROC=0.686 [0.637,0.737] AUPRC=0.087 picks=[(1.0, 2), (0.6, 3)] (806s)
+h=12 delta   QSVM  AUROC=0.678 [0.624,0.730] AUPRC=0.105 picks=[(0.6, 10.0), (1.0, 0.1)] (216s)
+h=24 static  VQC   AUROC=0.550 [0.496,0.603] AUPRC=0.096 picks=[(0.3, 3), (1.0, 2)] (768s)
+h=24 static  QSVM  AUROC=0.629 [0.578,0.680] AUPRC=0.133 picks=[(0.3, 10.0), (0.3, 10.0)] (199s)
+h=24 delta   VQC   AUROC=0.680 [0.638,0.720] AUPRC=0.141 picks=[(1.5, 2), (1.0, 2)] (686s)
+h=24 delta   QSVM  AUROC=0.683 [0.638,0.726] AUPRC=0.170 picks=[(1.5, 1.0), (0.6, 1.0)] (196s)
+h=48 static  VQC   AUROC=0.594 [0.544,0.644] AUPRC=0.227 picks=[(0.3, 2), (1.5, 2)] (463s)
+h=48 static  QSVM  AUROC=0.612 [0.558,0.663] AUPRC=0.262 picks=[(0.3, 10.0), (0.3, 10.0)] (179s)
+h=48 delta   VQC   AUROC=0.649 [0.606,0.689] AUPRC=0.252 picks=[(1.0, 3), (0.6, 3)] (551s)
+h=48 delta   QSVM  AUROC=0.635 [0.595,0.673] AUPRC=0.246 picks=[(1.5, 0.1), (0.3, 1.0)] (181s)
+
+saved results/logs/quantum_results.csv

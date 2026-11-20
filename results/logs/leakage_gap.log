@@ -1,0 +1,5 @@
+incident only (primary)        n= 2184 prev=0.165 VQC=0.629 LR=0.651 G=-0.021
+post-onset windows retained    n= 3592 prev=0.492 VQC=0.822 LR=0.821 G=+0.001
+
+leakage shifts the quantum-classical gap G by +0.023 AUROC
+(single-model AUROC inflation was +0.193 for the VQC, +0.170 for logistic regression)

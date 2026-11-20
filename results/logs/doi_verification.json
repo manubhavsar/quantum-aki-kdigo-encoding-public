@@ -1,0 +1,232 @@
+[
+  {
+    "doi": "10.1038/nature23474",
+    "expect_author": "Biamonte",
+    "expect_year": 2017,
+    "thread": "qml-methods",
+    "note": "foundational QML review",
+    "verified": true,
+    "record": {
+      "doi": "10.1038/nature23474",
+      "title": "Quantum machine learning",
+      "year": 2017,
+      "container": "Nature",
+      "authors": [
+        "Biamonte",
+        "Wittek",
+        "Pancotti",
+        "Rebentrost",
+        "Wiebe",
+        "Lloyd"
+      ],
+      "volume": "549",
+      "page": "195-202",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1038/nature23474"
+    },
+    "notes": []
+  },
+  {
+    "doi": "10.1038/s42254-021-00348-9",
+    "expect_author": "Cerezo",
+    "expect_year": 2021,
+    "thread": "qml-methods",
+    "verified": true,
+    "record": {
+      "doi": "10.1038/s42254-021-00348-9",
+      "title": "Variational quantum algorithms",
+      "year": 2021,
+      "container": "Nature Reviews Physics",
+      "authors": [
+        "Cerezo",
+        "Arrasmith",
+        "Babbush",
+        "Benjamin",
+        "Endo",
+        "Fujii",
+        "McClean",
+        "Mitarai",
+        "Yuan",
+        "Cincio",
+        "Coles"
+      ],
+      "volume": "3",
+      "page": "625-644",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1038/s42254-021-00348-9"
+    },
+    "notes": []
+  },
+  {
+    "doi": "10.1038/s41586-019-1390-1",
+    "expect_author": "Tomasev",
+    "expect_year": 2019,
+    "thread": "classical-aki",
+    "note": "seminal DeepMind AKI paper",
+    "verified": true,
+    "record": {
+      "doi": "10.1038/s41586-019-1390-1",
+      "title": "A clinically applicable approach to continuous prediction of future acute kidney injury",
+      "year": 2019,
+      "container": "Nature",
+      "authors": [
+        "Tomasev",
+        "Glorot",
+        "Rae",
+        "Zielinski",
+        "Askham",
+        "Saraiva",
+        "Mottram",
+        "Meyer",
+        "Ravuri",
+        "Protsyuk",
+        "Connell",
+        "Hughes",
+        "Karthikesalingam",
+        "Cornebise",
+        "Montgomery"
+      ],
+      "volume": "572",
+      "page": "116-119",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1038/s41586-019-1390-1"
+    },
+    "notes": []
+  },
+  {
+    "doi": "10.1162/neco.1997.9.8.1735",
+    "expect_author": "Hochreiter",
+    "expect_year": 1997,
+    "thread": "classical-methods",
+    "note": "foundational LSTM",
+    "verified": true,
+    "record": {
+      "doi": "10.1162/neco.1997.9.8.1735",
+      "title": "Long Short-Term Memory",
+      "year": 1997,
+      "container": "Neural Computation",
+      "authors": [
+        "Hochreiter",
+        "Schmidhuber"
+      ],
+      "volume": "9",
+      "page": "1735-1780",
+      "publisher": "MIT Press",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1162/neco.1997.9.8.1735"
+    },
+    "notes": []
+  },
+  {
+    "doi": "10.1007/s00134-015-3934-7",
+    "expect_author": "Hoste",
+    "expect_year": 2015,
+    "thread": "clinical",
+    "note": "AKI-EPI epidemiology",
+    "verified": true,
+    "record": {
+      "doi": "10.1007/s00134-015-3934-7",
+      "title": "Epidemiology of acute kidney injury in critically ill patients: the multinational AKI-EPI study",
+      "year": 2015,
+      "container": "Intensive Care Medicine",
+      "authors": [
+        "Hoste",
+        "Bagshaw",
+        "Bellomo",
+        "Cely",
+        "Colman",
+        "Cruz",
+        "Edipidis",
+        "Forni",
+        "Gomersall",
+        "Govil",
+        "Honore",
+        "Joannes-Boyau",
+        "Joannidis",
+        "Korhonen",
+        "Lavrentieva"
+      ],
+      "volume": "41",
+      "page": "1411-1423",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1007/s00134-015-3934-7"
+    },
+    "notes": []
+  },
+  {
+    "doi": "10.1159/000339789",
+    "expect_year": 2012,
+    "thread": "clinical",
+    "note": "KDIGO AKI guideline summary",
+    "verified": true,
+    "record": {
+      "doi": "10.1159/000339789",
+      "title": "KDIGO Clinical Practice Guidelines for Acute Kidney Injury",
+      "year": 2012,
+      "container": "Nephron Clinical Practice",
+      "authors": [
+        "Khwaja"
+      ],
+      "volume": "120",
+      "page": "c179-c184",
+      "publisher": "S. Karger AG",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1159/000339789"
+    },
+    "notes": []
+  },
+  {
+    "doi": "10.1038/s41746-025-01597-z",
+    "expect_year": 2025,
+    "thread": "qml-health-survey",
+    "verified": true,
+    "record": {
+      "doi": "10.1038/s41746-025-01597-z",
+      "title": "A systematic review of quantum machine learning for digital health",
+      "year": 2025,
+      "container": "npj Digital Medicine",
+      "authors": [
+        "Gupta",
+        "Wood",
+        "Engstrom",
+        "Pole",
+        "Shrapnel"
+      ],
+      "volume": "8",
+      "page": null,
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1038/s41746-025-01597-z"
+    },
+    "notes": []
+  },
+  {
+    "doi": "10.7717/peerj-cs.2789",
+    "expect_year": 2025,
+    "thread": "qml-kidney",
+    "note": "VQC CKD sparse autoencoder LASSO",
+    "verified": true,
+    "record": {
+      "doi": "10.7717/peerj-cs.2789",
+      "title": "Variational quantum classifier-based early identification and classification of chronic kidney disease using sparse autoencoder and LASSO shrinkage",
+      "year": 2025,
+      "container": "PeerJ Computer Science",
+      "authors": [
+        "Parthasarathi",
+        "Alshahrani",
+        "Venkatachalam",
+        "Cho"
+      ],
+      "volume": "11",
+      "page": "e2789",
+      "publisher": "PeerJ",
+      "type": "journal-article",
+      "url": "https://doi.org/10.7717/peerj-cs.2789"
+    },
+    "notes": []
+  }
+]

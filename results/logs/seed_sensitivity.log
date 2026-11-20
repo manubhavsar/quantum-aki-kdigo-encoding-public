@@ -1,0 +1,11 @@
+seed=0  VQC=0.666  LR=0.699  gap=-0.033
+seed=1  VQC=0.682  LR=0.699  gap=-0.017
+seed=2  VQC=0.666  LR=0.699  gap=-0.033
+seed=3  VQC=0.661  LR=0.699  gap=-0.037
+seed=4  VQC=0.675  LR=0.699  gap=-0.024
+seed=5  VQC=0.668  LR=0.699  gap=-0.030
+seed=6  VQC=0.686  LR=0.699  gap=-0.012
+seed=7  VQC=0.665  LR=0.699  gap=-0.034
+
+gap across seeds: mean -0.027  best -0.012  worst -0.037  range 0.025
+a best-seed report would claim -0.012; the seed-averaged truth is -0.027

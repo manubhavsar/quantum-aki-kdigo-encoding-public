@@ -1,0 +1,12 @@
+h=24 seed=0 TRE=0.658 additive=0.599 diff=+0.059
+h=24 seed=1 TRE=0.656 additive=0.623 diff=+0.033
+h=24 seed=2 TRE=0.652 additive=0.613 diff=+0.039
+h=24 seed=3 TRE=0.632 additive=0.592 diff=+0.040
+h=24 seed=4 TRE=0.659 additive=0.617 diff=+0.042
+h=48 seed=0 TRE=0.622 additive=0.580 diff=+0.043
+h=48 seed=1 TRE=0.611 additive=0.551 diff=+0.060
+h=48 seed=2 TRE=0.624 additive=0.545 diff=+0.079
+h=48 seed=3 TRE=0.586 additive=0.577 diff=+0.009
+h=48 seed=4 TRE=0.647 additive=0.563 diff=+0.084
+h=24: diff mean=+0.042 SD=0.010 positive in 5/5 seeds
+h=48: diff mean=+0.055 SD=0.031 positive in 5/5 seeds

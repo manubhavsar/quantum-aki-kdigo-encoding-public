@@ -1,0 +1,247 @@
+[
+  {
+    "query_title": "Quantum Long Short-Term Memory",
+    "thread": "qml-methods",
+    "expect_author": "Chen",
+    "expect_year": 2022,
+    "verified": false,
+    "accepted": null,
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "Quantum Long Short-Term Memory for Drug Discovery",
+        "url": "http://arxiv.org/abs/2407.19852v2",
+        "arxiv_id": "2407.19852",
+        "doi": null,
+        "year": 2024,
+        "authors": [
+          "Zhang",
+          "Xu",
+          "Wu",
+          "Wang",
+          "Xu"
+        ],
+        "sim": 0.833
+      },
+      {
+        "source": "arxiv",
+        "title": "Federated Quantum Long Short-term Memory (FedQLSTM)",
+        "url": "http://arxiv.org/abs/2312.14309v1",
+        "arxiv_id": "2312.14309",
+        "doi": null,
+        "year": 2023,
+        "authors": [
+          "Chehimi",
+          "Chen",
+          "Saad",
+          "Yoo"
+        ],
+        "sim": 0.833
+      },
+      {
+        "source": "crossref",
+        "title": "Figure 4: Long short-term memory.",
+        "doi": "10.7717/peerjcs.216/fig-4",
+        "year": null,
+        "container": "",
+        "type": "component",
+        "authors": [],
+        "url": "https://doi.org/10.7717/peerjcs.216/fig-4",
+        "sim": 0.727
+      },
+      {
+        "source": "crossref",
+        "title": "Figure 7: Long short-term memory.",
+        "doi": "10.7717/peerj-cs.3097/fig-7",
+        "year": null,
+        "container": "",
+        "type": "component",
+        "authors": [],
+        "url": "https://doi.org/10.7717/peerj-cs.3097/fig-7",
+        "sim": 0.727
+      }
+    ]
+  },
+  {
+    "query_title": "Quantum recurrent neural networks for sequential learning",
+    "thread": "qml-methods",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Quantum recurrent neural networks for sequential learning",
+      "doi": "10.1016/j.neunet.2023.07.003",
+      "year": 2023,
+      "container": "Neural Networks",
+      "type": "journal-article",
+      "authors": [
+        "Li",
+        "Wang",
+        "Han",
+        "Shi",
+        "Li",
+        "Shang",
+        "Zheng",
+        "Zhong",
+        "Gu"
+      ],
+      "url": "https://doi.org/10.1016/j.neunet.2023.07.003",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Quantum recurrent neural networks for sequential learning",
+        "doi": "10.1016/j.neunet.2023.07.003",
+        "year": 2023,
+        "container": "Neural Networks",
+        "type": "journal-article",
+        "authors": [
+          "Li",
+          "Wang",
+          "Han",
+          "Shi",
+          "Li",
+          "Shang",
+          "Zheng",
+          "Zhong",
+          "Gu"
+        ],
+        "url": "https://doi.org/10.1016/j.neunet.2023.07.003",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Quantum Recurrent Neural Networks for Sequential Learning",
+        "doi": "10.2139/ssrn.4290301",
+        "year": 2022,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Li",
+          "Wang",
+          "Han",
+          "Shi",
+          "Li",
+          "Shang",
+          "Zheng",
+          "Zhong",
+          "Gu"
+        ],
+        "url": "https://doi.org/10.2139/ssrn.4290301",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Quantum Recurrent Neural Networks for Sequential Learning",
+        "url": "http://arxiv.org/abs/2302.03244v1",
+        "arxiv_id": "2302.03244",
+        "doi": null,
+        "year": 2023,
+        "authors": [
+          "Li",
+          "Wang",
+          "Han",
+          "Shi",
+          "Li",
+          "Shang",
+          "Zheng",
+          "Zhong",
+          "Gu"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Residual Recurrent Neural Networks for Learning Sequential Representations",
+        "doi": "10.3390/info9030056",
+        "year": 2018,
+        "container": "Information",
+        "type": "journal-article",
+        "authors": [
+          "Yue",
+          "Fu",
+          "Liang"
+        ],
+        "url": "https://doi.org/10.3390/info9030056",
+        "sim": 0.769
+      }
+    ]
+  },
+  {
+    "query_title": "Recurrent quantum neural networks",
+    "thread": "qml-methods",
+    "expect_author": "Bausch",
+    "expect_year": 2020,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "Recurrent Quantum Neural Networks",
+      "url": "http://arxiv.org/abs/2006.14619v1",
+      "arxiv_id": "2006.14619",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Bausch"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "Recurrent Quantum Neural Networks",
+        "url": "http://arxiv.org/abs/2006.14619v1",
+        "arxiv_id": "2006.14619",
+        "doi": null,
+        "year": 2020,
+        "authors": [
+          "Bausch"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Mapping additive recurrent neural networks to quantum neural networks",
+        "doi": "10.1007/s11128-025-04806-6",
+        "year": 2025,
+        "container": "Quantum Information Processing",
+        "type": "journal-article",
+        "authors": [
+          "Sengupta"
+        ],
+        "url": "https://doi.org/10.1007/s11128-025-04806-6",
+        "sim": 0.8
+      },
+      {
+        "source": "crossref",
+        "title": "Improving Quantum Recurrent Neural Networks with Amplitude Encoding",
+        "doi": "10.2139/ssrn.5572315",
+        "year": 2025,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Morgan",
+          "Ghysels",
+          "Mohammadbagherpoor"
+        ],
+        "url": "https://doi.org/10.2139/ssrn.5572315",
+        "sim": 0.727
+      },
+      {
+        "source": "crossref",
+        "title": "Quantum Recurrent Neural Networks for Multivariate Time Series Prediction",
+        "doi": "10.17979/spu.23.c57",
+        "year": 2026,
+        "container": "Proceedings XoveTIC 2025",
+        "type": "book-chapter",
+        "authors": [],
+        "url": "https://doi.org/10.17979/spu.23.c57",
+        "sim": 0.667
+      }
+    ]
+  }
+]

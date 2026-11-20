@@ -1,0 +1,3115 @@
+[
+  {
+    "query_title": "Variational quantum classifier-based early identification and classification of chronic kidney disease using sparse autoencoder and LASSO shrinkage",
+    "thread": "qml-kidney",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Variational quantum classifier-based early identification and classification of chronic kidney disease using sparse autoencoder and LASSO shrinkage",
+      "doi": "10.7717/peerj-cs.2789",
+      "year": 2025,
+      "container": "PeerJ Computer Science",
+      "type": "journal-article",
+      "authors": [
+        "Parthasarathi",
+        "Alshahrani",
+        "Venkatachalam",
+        "Cho"
+      ],
+      "url": "https://doi.org/10.7717/peerj-cs.2789",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Variational quantum classifier-based early identification and classification of chronic kidney disease using sparse autoencoder and LASSO shrinkage",
+        "doi": "10.7717/peerj-cs.2789",
+        "year": 2025,
+        "container": "PeerJ Computer Science",
+        "type": "journal-article",
+        "authors": [
+          "Parthasarathi",
+          "Alshahrani",
+          "Venkatachalam",
+          "Cho"
+        ],
+        "url": "https://doi.org/10.7717/peerj-cs.2789",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Hybrid Metaheuristic Optimization with Stacked Sparse Autoencoder for Enhanced Chronic Kidney Disease Detection and Classification",
+        "doi": "10.24237/djes.2026.19211",
+        "year": 2026,
+        "container": "Diyala Journal of Engineering Sciences",
+        "type": "journal-article",
+        "authors": [
+          "S Manjula",
+          "N Hema Rajini",
+          "K Chokkanathan"
+        ],
+        "url": "https://doi.org/10.24237/djes.2026.19211",
+        "sim": 0.462
+      },
+      {
+        "source": "crossref",
+        "title": "A Robust Polarmetric SAR Terrain Classification Based on Sparse Deep Autoencoder Model Combined With Wavelet Kernel-Based Classifier",
+        "doi": "10.1109/access.2020.2983478",
+        "year": 2020,
+        "container": "IEEE Access",
+        "type": "journal-article",
+        "authors": [
+          "Chen",
+          "Deng"
+        ],
+        "url": "https://doi.org/10.1109/access.2020.2983478",
+        "sim": 0.357
+      },
+      {
+        "source": "crossref",
+        "title": "Quantum-Enhanced Feature Selection and Classification for Asthma Diagnosis Using a Variational Quantum Classifier",
+        "doi": "10.20944/preprints202508.1219.v1",
+        "year": 2025,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Fatima",
+          "Nabi"
+        ],
+        "url": "https://doi.org/10.20944/preprints202508.1219.v1",
+        "sim": 0.348
+      }
+    ]
+  },
+  {
+    "query_title": "Quantum Deep Learning for Automatic Chronic Kidney Disease Identification and Classification with CT images",
+    "thread": "qml-kidney",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Quantum Deep Learning for Automatic Chronic Kidney Disease Identification and Classification with CT images",
+      "doi": "10.21203/rs.3.rs-4743771/v1",
+      "year": 2024,
+      "container": "",
+      "type": "posted-content",
+      "authors": [
+        "Hussain",
+        "Songhua",
+        "Aslam",
+        "Waqas",
+        "Hussain"
+      ],
+      "url": "https://doi.org/10.21203/rs.3.rs-4743771/v1",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Quantum Deep Learning for Automatic Chronic Kidney Disease Identification and Classification with CT images",
+        "doi": "10.21203/rs.3.rs-4743771/v1",
+        "year": 2024,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Hussain",
+          "Songhua",
+          "Aslam",
+          "Waqas",
+          "Hussain"
+        ],
+        "url": "https://doi.org/10.21203/rs.3.rs-4743771/v1",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Peer Review #1 of \"Automatic classification of kidney CT images with relief based novel hybrid deep model (v0.1)\"",
+        "doi": "10.7287/peerj-cs.1717v0.1/reviews/1",
+        "year": 2023,
+        "container": "",
+        "type": "peer-review",
+        "authors": [],
+        "url": "https://doi.org/10.7287/peerj-cs.1717v0.1/reviews/1",
+        "sim": 0.462
+      },
+      {
+        "source": "crossref",
+        "title": "Peer Review #3 of \"Automatic classification of kidney CT images with relief based novel hybrid deep model (v0.3)\"",
+        "doi": "10.7287/peerj-cs.1717v0.3/reviews/3",
+        "year": 2023,
+        "container": "",
+        "type": "peer-review",
+        "authors": [],
+        "url": "https://doi.org/10.7287/peerj-cs.1717v0.3/reviews/3",
+        "sim": 0.462
+      },
+      {
+        "source": "crossref",
+        "title": "Peer Review #2 of \"Automatic classification of kidney CT images with relief based novel hybrid deep model (v0.1)\"",
+        "doi": "10.7287/peerj-cs.1717v0.1/reviews/2",
+        "year": 2023,
+        "container": "",
+        "type": "peer-review",
+        "authors": [],
+        "url": "https://doi.org/10.7287/peerj-cs.1717v0.1/reviews/2",
+        "sim": 0.444
+      }
+    ]
+  },
+  {
+    "query_title": "Design Space Exploration of Hybrid Quantum Neural Networks for Chronic Kidney Disease",
+    "thread": "qml-kidney",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "Design Space Exploration of Hybrid Quantum Neural Networks for Chronic Kidney Disease",
+      "url": "http://arxiv.org/abs/2604.13608v1",
+      "arxiv_id": "2604.13608",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Kashif",
+        "Siraj",
+        "Innan",
+        "Marchisio",
+        "Shafique"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "Design Space Exploration of Hybrid Quantum Neural Networks for Chronic Kidney Disease",
+        "url": "http://arxiv.org/abs/2604.13608v1",
+        "arxiv_id": "2604.13608",
+        "doi": null,
+        "year": 2026,
+        "authors": [
+          "Kashif",
+          "Siraj",
+          "Innan",
+          "Marchisio",
+          "Shafique"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Design Space Exploration of Hybrid Quantum\u2013Classical Neural Networks",
+        "doi": "10.3390/electronics10232980",
+        "year": 2021,
+        "container": "Electronics",
+        "type": "journal-article",
+        "authors": [
+          "Kashif",
+          "Al-Kuwari"
+        ],
+        "url": "https://doi.org/10.3390/electronics10232980",
+        "sim": 0.778
+      },
+      {
+        "source": "crossref",
+        "title": "HCF-QNet: A GWO-Optimized Hybrid Contrastive Quantum Neural Network for Chronic Kidney Disease Prediction",
+        "doi": "10.21203/rs.3.rs-8855764/v1",
+        "year": 2026,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Pathak",
+          "Singh"
+        ],
+        "url": "https://doi.org/10.21203/rs.3.rs-8855764/v1",
+        "sim": 0.522
+      },
+      {
+        "source": "crossref",
+        "title": "Heterogeneous Graph Neural Networks for High-Level Synthesis Design Space Exploration",
+        "doi": "10.22541/au.174288073.36285465/v1",
+        "year": 2025,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "JieMing",
+          "Wang",
+          "Xiao"
+        ],
+        "url": "https://doi.org/10.22541/au.174288073.36285465/v1",
+        "sim": 0.5
+      }
+    ]
+  },
+  {
+    "query_title": "A systematic review of quantum machine learning for digital health",
+    "thread": "qml-health-survey",
+    "expect_author": null,
+    "expect_year": 2025,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "A systematic review of quantum machine learning for digital health",
+      "doi": "10.1038/s41746-025-01597-z",
+      "year": 2025,
+      "container": "npj Digital Medicine",
+      "type": "journal-article",
+      "authors": [
+        "Gupta",
+        "Wood",
+        "Engstrom",
+        "Pole",
+        "Shrapnel"
+      ],
+      "url": "https://doi.org/10.1038/s41746-025-01597-z",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "A systematic review of quantum machine learning for digital health",
+        "doi": "10.1038/s41746-025-01597-z",
+        "year": 2025,
+        "container": "npj Digital Medicine",
+        "type": "journal-article",
+        "authors": [
+          "Gupta",
+          "Wood",
+          "Engstrom",
+          "Pole",
+          "Shrapnel"
+        ],
+        "url": "https://doi.org/10.1038/s41746-025-01597-z",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Enhancing systematic review with machine learning modelling for global health research",
+        "doi": "10.1016/s2589-7500(22)00216-3",
+        "year": 2023,
+        "container": "The Lancet Digital Health",
+        "type": "journal-article",
+        "authors": [
+          "Luo"
+        ],
+        "url": "https://doi.org/10.1016/s2589-7500(22)00216-3",
+        "sim": 0.625
+      },
+      {
+        "source": "crossref",
+        "title": "A Systematic Review on Quantum Machine Learning Applications in Classification_supp1-3567960.docx",
+        "doi": "10.1109/tai.2025.3567960/mm1",
+        "year": null,
+        "container": "",
+        "type": "component",
+        "authors": [
+          "Mohammadisavadkoohi"
+        ],
+        "url": "https://doi.org/10.1109/tai.2025.3567960/mm1",
+        "sim": 0.588
+      },
+      {
+        "source": "crossref",
+        "title": "Evaluating online health information quality using machine learning and deep learning: A systematic literature review",
+        "doi": "10.1177/20552076231212296",
+        "year": 2023,
+        "container": "DIGITAL HEALTH",
+        "type": "journal-article",
+        "authors": [
+          "Baqraf",
+          "Keikhosrokiani",
+          "Al-Rawashdeh"
+        ],
+        "url": "https://doi.org/10.1177/20552076231212296",
+        "sim": 0.556
+      }
+    ]
+  },
+  {
+    "query_title": "A systematic literature review of quantum machine learning for medical: trends, datasets, topics, and methods",
+    "thread": "qml-health-survey",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "A systematic literature review of quantum machine learning for medical: trends, datasets, topics, and methods",
+      "doi": "10.1016/j.ijcce.2026.05.002",
+      "year": 2026,
+      "container": "International Journal of Cognitive Computing in Engineering",
+      "type": "journal-article",
+      "authors": [
+        "Setiawan",
+        "Rustad",
+        "Syukur",
+        "Soeleman",
+        "Shidik",
+        "Mahargya",
+        "Akrom",
+        "Setiawan"
+      ],
+      "url": "https://doi.org/10.1016/j.ijcce.2026.05.002",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "A systematic literature review of quantum machine learning for medical: trends, datasets, topics, and methods",
+        "doi": "10.1016/j.ijcce.2026.05.002",
+        "year": 2026,
+        "container": "International Journal of Cognitive Computing in Engineering",
+        "type": "journal-article",
+        "authors": [
+          "Setiawan",
+          "Rustad",
+          "Syukur",
+          "Soeleman",
+          "Shidik",
+          "Mahargya",
+          "Akrom",
+          "Setiawan"
+        ],
+        "url": "https://doi.org/10.1016/j.ijcce.2026.05.002",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Applying Quantum Tensor Networks in Machine Learning: A Systematic Literature Review",
+        "doi": "10.5220/0013402100003890",
+        "year": 2025,
+        "container": "Proceedings of the 17th International Conference on Agents and Artificial Intelligence",
+        "type": "proceedings-article",
+        "authors": [
+          "Teixeira",
+          "In\u00e1cio",
+          "Bezerra"
+        ],
+        "url": "https://doi.org/10.5220/0013402100003890",
+        "sim": 0.6
+      },
+      {
+        "source": "crossref",
+        "title": "Trends and Challenges in Machine Learning for Code Summarization and Comprehension: A Systematic Literature Review",
+        "doi": "10.5220/0013275300003928",
+        "year": 2025,
+        "container": "Proceedings of the 20th International Conference on Evaluation of Novel Approaches to Software Engineering",
+        "type": "proceedings-article",
+        "authors": [
+          "Mantos",
+          "Kokkoras",
+          "Kakarontzas"
+        ],
+        "url": "https://doi.org/10.5220/0013275300003928",
+        "sim": 0.571
+      },
+      {
+        "source": "crossref",
+        "title": "A Systematic Literature Review of Machine Learning Methods to Forecast Chlorophyll-a in Lakes_supp1-3693980.xlsx",
+        "doi": "10.1109/access.2026.3693980/mm1",
+        "year": null,
+        "container": "",
+        "type": "component",
+        "authors": [
+          "LI"
+        ],
+        "url": "https://doi.org/10.1109/access.2026.3693980/mm1",
+        "sim": 0.522
+      }
+    ]
+  },
+  {
+    "query_title": "Clinical data classification with noisy intermediate scale quantum computers",
+    "thread": "qml-health-survey",
+    "expect_author": null,
+    "expect_year": 2022,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Clinical data classification with noisy intermediate scale quantum computers",
+      "doi": "10.1038/s41598-022-05971-9",
+      "year": 2022,
+      "container": "Scientific Reports",
+      "type": "journal-article",
+      "authors": [
+        "Moradi",
+        "Brandner",
+        "Spielvogel",
+        "Krajnc",
+        "Hillmich",
+        "Wille",
+        "Drexler",
+        "Papp"
+      ],
+      "url": "https://doi.org/10.1038/s41598-022-05971-9",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Clinical data classification with noisy intermediate scale quantum computers",
+        "doi": "10.1038/s41598-022-05971-9",
+        "year": 2022,
+        "container": "Scientific Reports",
+        "type": "journal-article",
+        "authors": [
+          "Moradi",
+          "Brandner",
+          "Spielvogel",
+          "Krajnc",
+          "Hillmich",
+          "Wille",
+          "Drexler",
+          "Papp"
+        ],
+        "url": "https://doi.org/10.1038/s41598-022-05971-9",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Clinical Data Classification With Noisy Intermediate Scale Quantum Computers",
+        "doi": "10.21203/rs.3.rs-942360/v1",
+        "year": 2021,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Moradi",
+          "Brandner",
+          "Spielvogel",
+          "Krajnc",
+          "Hillmich",
+          "Wille",
+          "Drexler",
+          "Papp"
+        ],
+        "url": "https://doi.org/10.21203/rs.3.rs-942360/v1",
+        "sim": 1.0
+      },
+      {
+        "source": "s2",
+        "title": "Clinical data classification with noisy intermediate scale quantum computers",
+        "year": 2021,
+        "container": "Scientific Reports",
+        "doi": "10.1038/s41598-022-05971-9",
+        "arxiv_id": null,
+        "pmid": "35115630",
+        "authors": [
+          "Moradi",
+          "Brandner",
+          "Spielvogel",
+          "Krajnc",
+          "Hillmich",
+          "Wille",
+          "Drexler",
+          "Papp"
+        ],
+        "url": "https://www.semanticscholar.org/paper/ef2511bdddc083c565262455ac8c803ac20dbfda",
+        "sim": 1.0
+      },
+      {
+        "source": "s2",
+        "title": "Clinical Data Classi\ufffdcation With Noisy Intermediate Scale Quantum Computers",
+        "year": 2021,
+        "container": "",
+        "doi": null,
+        "arxiv_id": null,
+        "pmid": null,
+        "authors": [
+          "Moradi",
+          "Brandner",
+          "Spielvogel",
+          "Krajnc",
+          "Hillmich",
+          "Wille",
+          "Drexler",
+          "Papp"
+        ],
+        "url": "https://www.semanticscholar.org/paper/988157735f9515d2bcaa38d41950cfb7aee9c8d9",
+        "sim": 0.824
+      }
+    ]
+  },
+  {
+    "query_title": "Quantum machine learning",
+    "thread": "qml-methods",
+    "expect_author": "Biamonte",
+    "expect_year": 2017,
+    "verified": false,
+    "accepted": null,
+    "near_misses": [
+      {
+        "source": "crossref",
+        "title": "Machine learning for quantum physics and quantum physics for machine learning",
+        "doi": "10.5821/dissertation-2117-348901",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "Huembeli"
+        ],
+        "url": "https://doi.org/10.5821/dissertation-2117-348901",
+        "sim": 0.857,
+        "reject_reason": [
+          "author 'Biamonte' not in ['Huembeli']"
+        ]
+      }
+    ],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Machine learning for quantum physics and quantum physics for machine learning",
+        "doi": "10.5821/dissertation-2117-348901",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "Huembeli"
+        ],
+        "url": "https://doi.org/10.5821/dissertation-2117-348901",
+        "sim": 0.857
+      },
+      {
+        "source": "crossref",
+        "title": "4 Quantum machine learning in finance",
+        "doi": "10.1515/9783111342276-004",
+        "year": 2024,
+        "container": "Quantum Machine Learning",
+        "type": "book-chapter",
+        "authors": [
+          "Baheti",
+          "Dhiman"
+        ],
+        "url": "https://doi.org/10.1515/9783111342276-004",
+        "sim": 0.75
+      },
+      {
+        "source": "crossref",
+        "title": "2. Topographic representation for quantum machine learning",
+        "doi": "10.1515/9783110670707-002",
+        "year": 2020,
+        "container": "Quantum Machine Learning",
+        "type": "book-chapter",
+        "authors": [
+          "MacLennan"
+        ],
+        "url": "https://doi.org/10.1515/9783110670707-002",
+        "sim": 0.667
+      },
+      {
+        "source": "crossref",
+        "title": "Linear-Algebra Based Quantum Machine Learning",
+        "doi": "10.1142/9789811224317_0014",
+        "year": 2020,
+        "container": "Principles of Quantum Artificial Intelligence",
+        "type": "book-chapter",
+        "authors": [],
+        "url": "https://doi.org/10.1142/9789811224317_0014",
+        "sim": 0.667
+      }
+    ]
+  },
+  {
+    "query_title": "Variational quantum algorithms",
+    "thread": "qml-methods",
+    "expect_author": "Cerezo",
+    "expect_year": 2021,
+    "verified": false,
+    "accepted": null,
+    "near_misses": [
+      {
+        "source": "crossref",
+        "title": "Variational quantum algorithms",
+        "doi": "10.1017/9781009639651.023",
+        "year": 2025,
+        "container": "Quantum Algorithms",
+        "type": "book-chapter",
+        "authors": [],
+        "url": "https://doi.org/10.1017/9781009639651.023",
+        "sim": 1.0,
+        "reject_reason": [
+          "author 'Cerezo' not in []",
+          "year 2025 != expected 2021"
+        ]
+      },
+      {
+        "source": "crossref",
+        "title": "Variational quantum algorithms and geometry",
+        "doi": "10.22331/qv-2020-06-04-37",
+        "year": 2020,
+        "container": "Quantum Views",
+        "type": "journal-article",
+        "authors": [
+          "Napp"
+        ],
+        "url": "https://doi.org/10.22331/qv-2020-06-04-37",
+        "sim": 0.857,
+        "reject_reason": [
+          "author 'Cerezo' not in ['Napp']"
+        ]
+      }
+    ],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Variational quantum algorithms",
+        "doi": "10.1017/9781009639651.023",
+        "year": 2025,
+        "container": "Quantum Algorithms",
+        "type": "book-chapter",
+        "authors": [],
+        "url": "https://doi.org/10.1017/9781009639651.023",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Variational quantum algorithms and geometry",
+        "doi": "10.22331/qv-2020-06-04-37",
+        "year": 2020,
+        "container": "Quantum Views",
+        "type": "journal-article",
+        "authors": [
+          "Napp"
+        ],
+        "url": "https://doi.org/10.22331/qv-2020-06-04-37",
+        "sim": 0.857
+      },
+      {
+        "source": "arxiv",
+        "title": "Variational Quantum Algorithms for Semidefinite Programming",
+        "url": "http://arxiv.org/abs/2112.08859v3",
+        "arxiv_id": "2112.08859",
+        "doi": "10.22331/q-2024-06-17-1374",
+        "year": 2021,
+        "authors": [
+          "Patel",
+          "Coles",
+          "Wilde"
+        ],
+        "sim": 0.75
+      },
+      {
+        "source": "arxiv",
+        "title": "Variational Quantum Algorithms for Many-Body Systems",
+        "url": "http://arxiv.org/abs/2502.11985v1",
+        "arxiv_id": "2502.11985",
+        "doi": null,
+        "year": 2025,
+        "authors": [
+          "Consiglio"
+        ],
+        "sim": 0.667
+      }
+    ]
+  },
+  {
+    "query_title": "Parameterized quantum circuits as machine learning models",
+    "thread": "qml-methods",
+    "expect_author": "Benedetti",
+    "expect_year": 2019,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Parameterized quantum circuits as machine learning models",
+      "doi": "10.1088/2058-9565/ab4eb5",
+      "year": 2019,
+      "container": "Quantum Science and Technology",
+      "type": "journal-article",
+      "authors": [
+        "Benedetti",
+        "Lloyd",
+        "Sack",
+        "Fiorentini"
+      ],
+      "url": "https://doi.org/10.1088/2058-9565/ab4eb5",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Parameterized quantum circuits as machine learning models",
+        "doi": "10.1088/2058-9565/ab4eb5",
+        "year": 2019,
+        "container": "Quantum Science and Technology",
+        "type": "journal-article",
+        "authors": [
+          "Benedetti",
+          "Lloyd",
+          "Sack",
+          "Fiorentini"
+        ],
+        "url": "https://doi.org/10.1088/2058-9565/ab4eb5",
+        "sim": 1.0
+      },
+      {
+        "source": "s2",
+        "title": "Parameterized quantum circuits as machine learning models",
+        "year": 2019,
+        "container": "Quantum Science and Technology",
+        "doi": "10.1088/2058-9565/ab4eb5",
+        "arxiv_id": "1906.07682",
+        "pmid": null,
+        "authors": [
+          "Benedetti",
+          "Lloyd",
+          "Sack",
+          "Fiorentini"
+        ],
+        "url": "https://www.semanticscholar.org/paper/638e41912f314c74436205aa8d332dca963ab1dc",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Parameterized quantum circuits as machine learning models",
+        "url": "http://arxiv.org/abs/1906.07682v2",
+        "arxiv_id": "1906.07682",
+        "doi": "10.1088/2058-9565/ab4eb5",
+        "year": 2019,
+        "authors": [
+          "Benedetti",
+          "Lloyd",
+          "Sack",
+          "Fiorentini"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "11 Unveiling intelligence: exploring variational quantum circuits as machine learning models",
+        "doi": "10.1515/9783111342276-011",
+        "year": 2024,
+        "container": "Quantum Machine Learning",
+        "type": "book-chapter",
+        "authors": [
+          "Dhiman",
+          "Dhiman"
+        ],
+        "url": "https://doi.org/10.1515/9783111342276-011",
+        "sim": 0.667
+      }
+    ]
+  },
+  {
+    "query_title": "Supervised learning with quantum-enhanced feature spaces",
+    "thread": "qml-methods",
+    "expect_author": "Havlicek",
+    "expect_year": 2019,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Supervised learning with quantum-enhanced feature spaces",
+      "doi": "10.1038/s41586-019-0980-2",
+      "year": 2019,
+      "container": "Nature",
+      "type": "journal-article",
+      "authors": [
+        "Havl\u00ed\u010dek",
+        "C\u00f3rcoles",
+        "Temme",
+        "Harrow",
+        "Kandala",
+        "Chow",
+        "Gambetta"
+      ],
+      "url": "https://doi.org/10.1038/s41586-019-0980-2",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Supervised learning with quantum-enhanced feature spaces",
+        "doi": "10.1038/s41586-019-0980-2",
+        "year": 2019,
+        "container": "Nature",
+        "type": "journal-article",
+        "authors": [
+          "Havl\u00ed\u010dek",
+          "C\u00f3rcoles",
+          "Temme",
+          "Harrow",
+          "Kandala",
+          "Chow",
+          "Gambetta"
+        ],
+        "url": "https://doi.org/10.1038/s41586-019-0980-2",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Supervised learning with quantum enhanced feature spaces",
+        "url": "http://arxiv.org/abs/1804.11326v2",
+        "arxiv_id": "1804.11326",
+        "doi": "10.1038/s41586-019-0980-2",
+        "year": 2018,
+        "authors": [
+          "Havlicek",
+          "C\u00f3rcoles",
+          "Temme",
+          "Harrow",
+          "Kandala",
+          "Chow",
+          "Gambetta"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Universal Approximation Property of Quantum Machine Learning Models in Quantum-Enhanced Feature Spaces",
+        "doi": "10.1103/physrevlett.127.090506",
+        "year": 2021,
+        "container": "Physical Review Letters",
+        "type": "journal-article",
+        "authors": [
+          "Goto",
+          "Tran",
+          "Nakajima"
+        ],
+        "url": "https://doi.org/10.1103/physrevlett.127.090506",
+        "sim": 0.625
+      },
+      {
+        "source": "crossref",
+        "title": "Enhanced Quantum-Inspired Supervised Learning for Telecommunication Networks",
+        "doi": "10.1109/comcomap68359.2025.11353139",
+        "year": 2025,
+        "container": "2025 Computing, Communications and IoT Applications (ComComAp)",
+        "type": "proceedings-article",
+        "authors": [
+          "Mondal",
+          "Saravanan"
+        ],
+        "url": "https://doi.org/10.1109/comcomap68359.2025.11353139",
+        "sim": 0.615
+      }
+    ]
+  },
+  {
+    "query_title": "Circuit-centric quantum classifiers",
+    "thread": "qml-methods",
+    "expect_author": "Schuld",
+    "expect_year": 2020,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Circuit-centric quantum classifiers",
+      "doi": "10.1103/physreva.101.032308",
+      "year": 2020,
+      "container": "Physical Review A",
+      "type": "journal-article",
+      "authors": [
+        "Schuld",
+        "Bocharov",
+        "Svore",
+        "Wiebe"
+      ],
+      "url": "https://doi.org/10.1103/physreva.101.032308",
+      "sim": 1.0
+    },
+    "near_misses": [
+      {
+        "source": "arxiv",
+        "title": "Circuit-centric quantum classifiers",
+        "url": "http://arxiv.org/abs/1804.00633v1",
+        "arxiv_id": "1804.00633",
+        "doi": "10.1103/PhysRevA.101.032308",
+        "year": 2018,
+        "authors": [
+          "Schuld",
+          "Bocharov",
+          "Svore",
+          "Wiebe"
+        ],
+        "sim": 1.0,
+        "reject_reason": [
+          "year 2018 != expected 2020"
+        ]
+      }
+    ],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Circuit-centric quantum classifiers",
+        "doi": "10.1103/physreva.101.032308",
+        "year": 2020,
+        "container": "Physical Review A",
+        "type": "journal-article",
+        "authors": [
+          "Schuld",
+          "Bocharov",
+          "Svore",
+          "Wiebe"
+        ],
+        "url": "https://doi.org/10.1103/physreva.101.032308",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Circuit-centric quantum classifiers",
+        "url": "http://arxiv.org/abs/1804.00633v1",
+        "arxiv_id": "1804.00633",
+        "doi": "10.1103/PhysRevA.101.032308",
+        "year": 2018,
+        "authors": [
+          "Schuld",
+          "Bocharov",
+          "Svore",
+          "Wiebe"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Circuit centric quantum architecture design",
+        "doi": "10.1049/qtc2.12004",
+        "year": 2021,
+        "container": "IET Quantum Communication",
+        "type": "journal-article",
+        "authors": [
+          "Azad",
+          "Papneja",
+          "Saini",
+          "Behera",
+          "Panigrahi"
+        ],
+        "url": "https://doi.org/10.1049/qtc2.12004",
+        "sim": 0.667
+      },
+      {
+        "source": "crossref",
+        "title": "Hybrid variational quantum circuit approach for stabilizer-state classifiers",
+        "doi": "10.1103/tl4h-vs8y",
+        "year": 2026,
+        "container": "Physical Review A",
+        "type": "journal-article",
+        "authors": [
+          "Aslam",
+          "Holweck"
+        ],
+        "url": "https://doi.org/10.1103/tl4h-vs8y",
+        "sim": 0.5
+      }
+    ]
+  },
+  {
+    "query_title": "PennyLane: Automatic differentiation of hybrid quantum-classical computations",
+    "thread": "qml-methods",
+    "expect_author": "Bergholm",
+    "expect_year": 2018,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "PennyLane: Automatic differentiation of hybrid quantum-classical computations",
+      "url": "http://arxiv.org/abs/1811.04968v4",
+      "arxiv_id": "1811.04968",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Bergholm",
+        "Izaac",
+        "Schuld",
+        "Gogolin",
+        "Ahmed",
+        "Ajith",
+        "Alam",
+        "Alonso-Linaje",
+        "AkashNarayanan",
+        "Asadi",
+        "Arrazola",
+        "Azad"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "PennyLane: Automatic differentiation of hybrid quantum-classical computations",
+        "url": "http://arxiv.org/abs/1811.04968v4",
+        "arxiv_id": "1811.04968",
+        "doi": null,
+        "year": 2018,
+        "authors": [
+          "Bergholm",
+          "Izaac",
+          "Schuld",
+          "Gogolin",
+          "Ahmed",
+          "Ajith",
+          "Alam",
+          "Alonso-Linaje",
+          "AkashNarayanan",
+          "Asadi",
+          "Arrazola",
+          "Azad"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Classical Simulation of Quantum Computations",
+        "doi": "10.21236/ada441205",
+        "year": 2005,
+        "container": "",
+        "type": "report",
+        "authors": [
+          "Valiant"
+        ],
+        "url": "https://doi.org/10.21236/ada441205",
+        "sim": 0.545
+      },
+      {
+        "source": "crossref",
+        "title": "Classical zero-knowledge arguments for quantum computations",
+        "doi": "10.22331/q-2020-05-14-266",
+        "year": 2020,
+        "container": "Quantum",
+        "type": "journal-article",
+        "authors": [
+          "Vidick",
+          "Zhang"
+        ],
+        "url": "https://doi.org/10.22331/q-2020-05-14-266",
+        "sim": 0.462
+      },
+      {
+        "source": "crossref",
+        "title": "HYBRID CLASSICAL\u2013QUANTUM CONVOLUTIONAL NEURAL NETWORK USING PENNYLANE FOR OVERHEAD-MNIST IMAGE CLASSIFICATION",
+        "doi": "10.56726/irjmets91285",
+        "year": 2026,
+        "container": "International Research Journal of Modernization in Engineering Technology &amp; Science",
+        "type": "journal-article",
+        "authors": [],
+        "url": "https://doi.org/10.56726/irjmets91285",
+        "sim": 0.444
+      }
+    ]
+  },
+  {
+    "query_title": "Effect of data encoding on the expressive power of variational quantum-machine-learning models",
+    "thread": "qml-methods",
+    "expect_author": "Schuld",
+    "expect_year": 2021,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Effect of data encoding on the expressive power of variational quantum-machine-learning models",
+      "doi": "10.1103/physreva.103.032430",
+      "year": 2021,
+      "container": "Physical Review A",
+      "type": "journal-article",
+      "authors": [
+        "Schuld",
+        "Sweke",
+        "Meyer"
+      ],
+      "url": "https://doi.org/10.1103/physreva.103.032430",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Effect of data encoding on the expressive power of variational quantum-machine-learning models",
+        "doi": "10.1103/physreva.103.032430",
+        "year": 2021,
+        "container": "Physical Review A",
+        "type": "journal-article",
+        "authors": [
+          "Schuld",
+          "Sweke",
+          "Meyer"
+        ],
+        "url": "https://doi.org/10.1103/physreva.103.032430",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "The effect of data encoding on the expressive power of variational quantum machine learning models",
+        "url": "http://arxiv.org/abs/2008.08605v2",
+        "arxiv_id": "2008.08605",
+        "doi": "10.1103/PhysRevA.103.032430",
+        "year": 2020,
+        "authors": [
+          "Schuld",
+          "Sweke",
+          "Meyer"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "The effect of the processing and measurement operators on the expressive power of quantum models",
+        "doi": "10.1007/s42484-023-00109-0",
+        "year": 2023,
+        "container": "Quantum Machine Intelligence",
+        "type": "journal-article",
+        "authors": [
+          "Gratsea",
+          "Huembeli"
+        ],
+        "url": "https://doi.org/10.1007/s42484-023-00109-0",
+        "sim": 0.556
+      },
+      {
+        "source": "crossref",
+        "title": "Variational Circuits as Machine Learning Models",
+        "doi": "10.1007/978-3-030-83098-4_5",
+        "year": 2021,
+        "container": "Quantum Science and Technology",
+        "type": "book-chapter",
+        "authors": [
+          "Schuld",
+          "Petruccione"
+        ],
+        "url": "https://doi.org/10.1007/978-3-030-83098-4_5",
+        "sim": 0.5
+      }
+    ]
+  },
+  {
+    "query_title": "Power of data in quantum machine learning",
+    "thread": "qml-methods",
+    "expect_author": "Huang",
+    "expect_year": 2021,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "Power of data in quantum machine learning",
+      "url": "http://arxiv.org/abs/2011.01938v2",
+      "arxiv_id": "2011.01938",
+      "doi": "10.1038/s41467-021-22539-9",
+      "year": 2020,
+      "authors": [
+        "Huang",
+        "Broughton",
+        "Mohseni",
+        "Babbush",
+        "Boixo",
+        "Neven",
+        "McClean"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "Power of data in quantum machine learning",
+        "url": "http://arxiv.org/abs/2011.01938v2",
+        "arxiv_id": "2011.01938",
+        "doi": "10.1038/s41467-021-22539-9",
+        "year": 2020,
+        "authors": [
+          "Huang",
+          "Broughton",
+          "Mohseni",
+          "Babbush",
+          "Boixo",
+          "Neven",
+          "McClean"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Quantum Machine Learning",
+        "doi": "10.1201/9781003637400-6",
+        "year": 2026,
+        "container": "Quantum Learning",
+        "type": "book-chapter",
+        "authors": [
+          "Batra"
+        ],
+        "url": "https://doi.org/10.1201/9781003637400-6",
+        "sim": 0.75
+      },
+      {
+        "source": "crossref",
+        "title": "Quantum Machine Learning",
+        "doi": "10.1007/978-1-4899-7502-7_913-1",
+        "year": 2016,
+        "container": "Encyclopedia of Machine Learning and Data Mining",
+        "type": "book-chapter",
+        "authors": [
+          "Schuld",
+          "Petruccione"
+        ],
+        "url": "https://doi.org/10.1007/978-1-4899-7502-7_913-1",
+        "sim": 0.75
+      },
+      {
+        "source": "crossref",
+        "title": "Quantum Machine Learning Applications in Healthcare",
+        "doi": "10.1201/9781003646068-8",
+        "year": 2026,
+        "container": "Quantum Machine Learning",
+        "type": "book-chapter",
+        "authors": [
+          "Kasturi"
+        ],
+        "url": "https://doi.org/10.1201/9781003646068-8",
+        "sim": 0.6
+      }
+    ]
+  },
+  {
+    "query_title": "Barren plateaus in quantum neural network training landscapes",
+    "thread": "qml-methods",
+    "expect_author": "McClean",
+    "expect_year": 2018,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Barren plateaus in quantum neural network training landscapes",
+      "doi": "10.1038/s41467-018-07090-4",
+      "year": 2018,
+      "container": "Nature Communications",
+      "type": "journal-article",
+      "authors": [
+        "McClean",
+        "Boixo",
+        "Smelyanskiy",
+        "Babbush",
+        "Neven"
+      ],
+      "url": "https://doi.org/10.1038/s41467-018-07090-4",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Barren plateaus in quantum neural network training landscapes",
+        "doi": "10.1038/s41467-018-07090-4",
+        "year": 2018,
+        "container": "Nature Communications",
+        "type": "journal-article",
+        "authors": [
+          "McClean",
+          "Boixo",
+          "Smelyanskiy",
+          "Babbush",
+          "Neven"
+        ],
+        "url": "https://doi.org/10.1038/s41467-018-07090-4",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Barren plateaus in quantum neural network training landscapes",
+        "url": "http://arxiv.org/abs/1803.11173v1",
+        "arxiv_id": "1803.11173",
+        "doi": "10.1038/s41467-018-07090-4",
+        "year": 2018,
+        "authors": [
+          "McClean",
+          "Boixo",
+          "Smelyanskiy",
+          "Babbush",
+          "Neven"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Impact of barren plateaus countermeasures on the quantum neural network capacity to learn",
+        "doi": "10.1007/s11128-023-04187-8",
+        "year": 2023,
+        "container": "Quantum Information Processing",
+        "type": "journal-article",
+        "authors": [
+          "Cybulski",
+          "Nguyen"
+        ],
+        "url": "https://doi.org/10.1007/s11128-023-04187-8",
+        "sim": 0.625
+      },
+      {
+        "source": "crossref",
+        "title": "Barren plateaus in quantum tensor network optimization",
+        "doi": "10.22331/q-2023-04-13-974",
+        "year": 2023,
+        "container": "Quantum",
+        "type": "journal-article",
+        "authors": [
+          "Cervero Mart\u00edn",
+          "Plekhanov",
+          "Lubasch"
+        ],
+        "url": "https://doi.org/10.22331/q-2023-04-13-974",
+        "sim": 0.615
+      }
+    ]
+  },
+  {
+    "query_title": "Quantum embeddings for machine learning",
+    "thread": "qml-methods",
+    "expect_author": "Lloyd",
+    "expect_year": 2020,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "Quantum embeddings for machine learning",
+      "url": "http://arxiv.org/abs/2001.03622v2",
+      "arxiv_id": "2001.03622",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Lloyd",
+        "Schuld",
+        "Ijaz",
+        "Izaac",
+        "Killoran"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "Quantum embeddings for machine learning",
+        "url": "http://arxiv.org/abs/2001.03622v2",
+        "arxiv_id": "2001.03622",
+        "doi": null,
+        "year": 2020,
+        "authors": [
+          "Lloyd",
+          "Schuld",
+          "Ijaz",
+          "Izaac",
+          "Killoran"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Quantum Embeddings of Classical Data for Quantum Machine Learning",
+        "doi": "10.1109/acait56212.2022.10138000",
+        "year": 2022,
+        "container": "2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)",
+        "type": "proceedings-article",
+        "authors": [
+          "Luca",
+          "Chen"
+        ],
+        "url": "https://doi.org/10.1109/acait56212.2022.10138000",
+        "sim": 0.8
+      },
+      {
+        "source": "crossref",
+        "title": "Trainable Discrete Feature Embeddings for Quantum Machine Learning",
+        "doi": "10.1109/qce52317.2021.00087",
+        "year": 2021,
+        "container": "2021 IEEE International Conference on Quantum Computing and Engineering (QCE)",
+        "type": "proceedings-article",
+        "authors": [
+          "Thumwanit",
+          "Lortaraprasert",
+          "Yano",
+          "Raymond"
+        ],
+        "url": "https://doi.org/10.1109/qce52317.2021.00087",
+        "sim": 0.727
+      },
+      {
+        "source": "crossref",
+        "title": "Invited: Trainable Discrete Feature Embeddings for Quantum Machine Learning",
+        "doi": "10.1109/dac18074.2021.9586190",
+        "year": 2021,
+        "container": "2021 58th ACM/IEEE Design Automation Conference (DAC)",
+        "type": "proceedings-article",
+        "authors": [
+          "Thumwanit",
+          "Lortaraprasert",
+          "Raymond"
+        ],
+        "url": "https://doi.org/10.1109/dac18074.2021.9586190",
+        "sim": 0.667
+      }
+    ]
+  },
+  {
+    "query_title": "Evaluating analytic gradients on quantum hardware",
+    "thread": "qml-methods",
+    "expect_author": "Schuld",
+    "expect_year": 2019,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Evaluating analytic gradients on quantum hardware",
+      "doi": "10.1103/physreva.99.032331",
+      "year": 2019,
+      "container": "Physical Review A",
+      "type": "journal-article",
+      "authors": [
+        "Schuld",
+        "Bergholm",
+        "Gogolin",
+        "Izaac",
+        "Killoran"
+      ],
+      "url": "https://doi.org/10.1103/physreva.99.032331",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Evaluating analytic gradients on quantum hardware",
+        "doi": "10.1103/physreva.99.032331",
+        "year": 2019,
+        "container": "Physical Review A",
+        "type": "journal-article",
+        "authors": [
+          "Schuld",
+          "Bergholm",
+          "Gogolin",
+          "Izaac",
+          "Killoran"
+        ],
+        "url": "https://doi.org/10.1103/physreva.99.032331",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Evaluating analytic gradients on quantum hardware",
+        "url": "http://arxiv.org/abs/1811.11184v1",
+        "arxiv_id": "1811.11184",
+        "doi": "10.1103/PhysRevA.99.032331",
+        "year": 2018,
+        "authors": [
+          "Schuld",
+          "Bergholm",
+          "Gogolin",
+          "Izaac",
+          "Killoran"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Evaluating Quantum REINFORCE on IBM\u2019s Quantum Hardware",
+        "doi": "10.1007/978-3-658-37616-1_8",
+        "year": 2022,
+        "container": "Reinforcement Learning with Hybrid Quantum Approximation in the NISQ Context",
+        "type": "book-chapter",
+        "authors": [
+          "Kunczik"
+        ],
+        "url": "https://doi.org/10.1007/978-3-658-37616-1_8",
+        "sim": 0.545
+      },
+      {
+        "source": "crossref",
+        "title": "Measuring Analytic Gradients of General Quantum Evolution with the Stochastic Parameter Shift Rule",
+        "doi": "10.22331/q-2021-01-25-386",
+        "year": 2021,
+        "container": "Quantum",
+        "type": "journal-article",
+        "authors": [
+          "Banchi",
+          "Crooks"
+        ],
+        "url": "https://doi.org/10.22331/q-2021-01-25-386",
+        "sim": 0.4
+      }
+    ]
+  },
+  {
+    "query_title": "An empirical study on KDIGO-defined acute kidney injury prediction in the intensive care unit",
+    "thread": "classical-aki",
+    "expect_author": null,
+    "expect_year": 2024,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "An empirical study on KDIGO-defined acute kidney injury prediction in the intensive care unit",
+      "doi": "10.1093/bioinformatics/btae212",
+      "year": 2024,
+      "container": "Bioinformatics",
+      "type": "journal-article",
+      "authors": [
+        "Lyu",
+        "Fan",
+        "H\u00fcser",
+        "Hartout",
+        "Gumbsch",
+        "Faltys",
+        "Merz",
+        "R\u00e4tsch",
+        "Borgwardt"
+      ],
+      "url": "https://doi.org/10.1093/bioinformatics/btae212",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "An empirical study on KDIGO-defined acute kidney injury prediction in the intensive care unit",
+        "doi": "10.1093/bioinformatics/btae212",
+        "year": 2024,
+        "container": "Bioinformatics",
+        "type": "journal-article",
+        "authors": [
+          "Lyu",
+          "Fan",
+          "H\u00fcser",
+          "Hartout",
+          "Gumbsch",
+          "Faltys",
+          "Merz",
+          "R\u00e4tsch",
+          "Borgwardt"
+        ],
+        "url": "https://doi.org/10.1093/bioinformatics/btae212",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "An Empirical Study on KDIGO-Defined Acute Kidney Injury Prediction in the Intensive Care Unit",
+        "doi": "10.1101/2024.02.01.24302063",
+        "year": 2024,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Lyu",
+          "Fan",
+          "H\u00fcser",
+          "Hartout",
+          "Gumbsch",
+          "Faltys",
+          "Merz",
+          "R\u00e4tsch",
+          "Borgwardt"
+        ],
+        "url": "https://doi.org/10.1101/2024.02.01.24302063",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Evaluation of Acute Kidney Injury in Intensive Care Unit",
+        "doi": "10.5772/25881",
+        "year": 2012,
+        "container": "Basic Nephrology and Acute Kidney Injury",
+        "type": "book-chapter",
+        "authors": [
+          "Yegenaga"
+        ],
+        "url": "https://doi.org/10.5772/25881",
+        "sim": 0.667
+      },
+      {
+        "source": "crossref",
+        "title": "Acute kidney injury according to KDIGO stages and maternal mortality in the intensive care unit",
+        "doi": "10.1007/s00134-014-3626-8",
+        "year": 2015,
+        "container": "Intensive Care Medicine",
+        "type": "journal-article",
+        "authors": [
+          "Bentata",
+          "Madani",
+          "Berkhli",
+          "Haddiya",
+          "Saadi",
+          "Mimouni",
+          "Housni"
+        ],
+        "url": "https://doi.org/10.1007/s00134-014-3626-8",
+        "sim": 0.636
+      }
+    ]
+  },
+  {
+    "query_title": "Continuous and early prediction of future moderate and severe Acute Kidney Injury in critically ill patients: Development and multi-centric, multi-national external validation of a machine-learning model",
+    "thread": "classical-aki",
+    "expect_author": null,
+    "expect_year": 2023,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Continuous and early prediction of future moderate and severe Acute Kidney Injury in critically ill patients: Development and multi-centric, multi-national external validation of a machine-learning model",
+      "doi": "10.1371/journal.pone.0287398",
+      "year": 2023,
+      "container": "PLOS ONE",
+      "type": "journal-article",
+      "authors": [
+        "Alfieri",
+        "Ancona",
+        "Tripepi",
+        "Rubeis",
+        "Arjoldi",
+        "Finazzi",
+        "Cauda",
+        "Fagugli"
+      ],
+      "url": "https://doi.org/10.1371/journal.pone.0287398",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Continuous and early prediction of future moderate and severe Acute Kidney Injury in critically ill patients: Development and multi-centric, multi-national external validation of a machine-learning model",
+        "doi": "10.1371/journal.pone.0287398",
+        "year": 2023,
+        "container": "PLOS ONE",
+        "type": "journal-article",
+        "authors": [
+          "Alfieri",
+          "Ancona",
+          "Tripepi",
+          "Rubeis",
+          "Arjoldi",
+          "Finazzi",
+          "Cauda",
+          "Fagugli"
+        ],
+        "url": "https://doi.org/10.1371/journal.pone.0287398",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Development and external validation of a machine learning model for the prediction of persistent acute kidney injury stage 3 in multi-centric, multi-national intensive care cohorts",
+        "doi": "10.1186/s13054-024-04954-8",
+        "year": 2024,
+        "container": "Critical Care",
+        "type": "journal-article",
+        "authors": [
+          "Zappal\u00e0",
+          "Alfieri",
+          "Ancona",
+          "Taccone",
+          "Maviglia",
+          "Cauda",
+          "Finazzi",
+          "Dell\u2019Anna"
+        ],
+        "url": "https://doi.org/10.1186/s13054-024-04954-8",
+        "sim": 0.65
+      },
+      {
+        "source": "crossref",
+        "title": "An Interpretable Machine Learning Model for Continuous Prediction of Acute Kidney Injury in Critically Ill Patients With Atrial Fibrillation_supp1-3716727.docx",
+        "doi": "10.1109/tbme.2026.3716727/mm1",
+        "year": null,
+        "container": "",
+        "type": "component",
+        "authors": [
+          "He"
+        ],
+        "url": "https://doi.org/10.1109/tbme.2026.3716727/mm1",
+        "sim": 0.579
+      },
+      {
+        "source": "crossref",
+        "title": "Machine learning-based prediction model for volume responsiveness in critically ill patients with oliguric acute kidney injury",
+        "doi": "10.21203/rs.3.rs-3209707/v1",
+        "year": 2023,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Hui",
+          "Cao",
+          "Zhou",
+          "Wang",
+          "Wen"
+        ],
+        "url": "https://doi.org/10.21203/rs.3.rs-3209707/v1",
+        "sim": 0.571
+      }
+    ]
+  },
+  {
+    "query_title": "A clinically applicable approach to continuous prediction of future acute kidney injury",
+    "thread": "classical-aki",
+    "expect_author": "Tomasev",
+    "expect_year": 2019,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "A clinically applicable approach to continuous prediction of future acute kidney injury",
+      "doi": "10.1038/s41586-019-1390-1",
+      "year": 2019,
+      "container": "Nature",
+      "type": "journal-article",
+      "authors": [
+        "Toma\u0161ev",
+        "Glorot",
+        "Rae",
+        "Zielinski",
+        "Askham",
+        "Saraiva",
+        "Mottram",
+        "Meyer",
+        "Ravuri",
+        "Protsyuk",
+        "Connell",
+        "Hughes"
+      ],
+      "url": "https://doi.org/10.1038/s41586-019-1390-1",
+      "sim": 1.0
+    },
+    "near_misses": [
+      {
+        "source": "crossref",
+        "title": "Faculty Opinions recommendation of A clinically applicable approach to continuous prediction of future acute kidney injury.",
+        "doi": "10.3410/f.736293810.793564412",
+        "year": 2019,
+        "container": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+        "type": "dataset",
+        "authors": [
+          "Yip"
+        ],
+        "url": "https://doi.org/10.3410/f.736293810.793564412",
+        "sim": 0.857,
+        "reject_reason": [
+          "author 'Tomasev' not in ['Yip']"
+        ]
+      }
+    ],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "A clinically applicable approach to continuous prediction of future acute kidney injury",
+        "doi": "10.1038/s41586-019-1390-1",
+        "year": 2019,
+        "container": "Nature",
+        "type": "journal-article",
+        "authors": [
+          "Toma\u0161ev",
+          "Glorot",
+          "Rae",
+          "Zielinski",
+          "Askham",
+          "Saraiva",
+          "Mottram",
+          "Meyer",
+          "Ravuri",
+          "Protsyuk",
+          "Connell",
+          "Hughes"
+        ],
+        "url": "https://doi.org/10.1038/s41586-019-1390-1",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Faculty Opinions recommendation of A clinically applicable approach to continuous prediction of future acute kidney injury.",
+        "doi": "10.3410/f.736293810.793564412",
+        "year": 2019,
+        "container": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+        "type": "dataset",
+        "authors": [
+          "Yip"
+        ],
+        "url": "https://doi.org/10.3410/f.736293810.793564412",
+        "sim": 0.857
+      },
+      {
+        "source": "crossref",
+        "title": "Continuous prediction of future acute kidney injury: a step forward",
+        "doi": "10.1016/j.kint.2020.02.013",
+        "year": 2020,
+        "container": "Kidney International",
+        "type": "journal-article",
+        "authors": [
+          "Siew",
+          "Ikizler"
+        ],
+        "url": "https://doi.org/10.1016/j.kint.2020.02.013",
+        "sim": 0.706
+      },
+      {
+        "source": "crossref",
+        "title": "Acute kidney injury: An algorithmic approach",
+        "doi": "10.1007/978-3-031-49924-1_1",
+        "year": 2023,
+        "container": "Acute Kidney Injury",
+        "type": "book-chapter",
+        "authors": [
+          "Piracha"
+        ],
+        "url": "https://doi.org/10.1007/978-3-031-49924-1_1",
+        "sim": 0.571
+      }
+    ]
+  },
+  {
+    "query_title": "Prediction of acute kidney injury in intensive care unit patients based on interpretable machine learning",
+    "thread": "classical-aki",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Prediction of acute kidney injury in intensive care unit patients based on interpretable machine learning",
+      "doi": "10.1177/20552076241311173",
+      "year": 2025,
+      "container": "DIGITAL HEALTH",
+      "type": "journal-article",
+      "authors": [
+        "Zhang",
+        "Li",
+        "Wang",
+        "Zhang",
+        "Wu"
+      ],
+      "url": "https://doi.org/10.1177/20552076241311173",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Prediction of acute kidney injury in intensive care unit patients based on interpretable machine learning",
+        "doi": "10.1177/20552076241311173",
+        "year": 2025,
+        "container": "DIGITAL HEALTH",
+        "type": "journal-article",
+        "authors": [
+          "Zhang",
+          "Li",
+          "Wang",
+          "Zhang",
+          "Wu"
+        ],
+        "url": "https://doi.org/10.1177/20552076241311173",
+        "sim": 1.0
+      },
+      {
+        "source": "s2",
+        "title": "Prediction of acute kidney injury in intensive care unit patients based on interpretable machine learning",
+        "year": 2025,
+        "container": "Digital Health",
+        "doi": "10.1177/20552076241311173",
+        "arxiv_id": null,
+        "pmid": "39777058",
+        "authors": [
+          "Zhang",
+          "Li",
+          "Wang",
+          "Zhang",
+          "Wu"
+        ],
+        "url": "https://www.semanticscholar.org/paper/219b36715d56c61ee9d1800400473252c4ebf4dc",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Interpretable machine learning for the early prediction of acute kidney injury in preterm infants in the neonatal intensive care unit",
+        "doi": "10.1080/0886022x.2025.2580067",
+        "year": 2025,
+        "container": "Renal Failure",
+        "type": "journal-article",
+        "authors": [
+          "Liu",
+          "Lyu",
+          "Yang"
+        ],
+        "url": "https://doi.org/10.1080/0886022x.2025.2580067",
+        "sim": 0.769
+      },
+      {
+        "source": "crossref",
+        "title": "An Interpretable Machine Learning Model for Early Multitemporal Prediction of Onset of Acute Kidney Injury in Intensive Care Unit Patients with Severe Trauma",
+        "doi": "10.1177/08850666251390848",
+        "year": 2026,
+        "container": "Journal of Intensive Care Medicine",
+        "type": "journal-article",
+        "authors": [
+          "Gao",
+          "Jin",
+          "Zhang",
+          "Chen"
+        ],
+        "url": "https://doi.org/10.1177/08850666251390848",
+        "sim": 0.759
+      }
+    ]
+  },
+  {
+    "query_title": "Systematic review of externally validated machine learning models for predicting acute kidney injury in general hospital patients",
+    "thread": "classical-aki",
+    "expect_author": null,
+    "expect_year": 2023,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Systematic review of externally validated machine learning models for predicting acute kidney injury in general hospital patients",
+      "doi": "10.3389/fneph.2023.1220214",
+      "year": 2023,
+      "container": "Frontiers in Nephrology",
+      "type": "journal-article",
+      "authors": [
+        "Wainstein",
+        "Flanagan",
+        "Johnson",
+        "Shrapnel"
+      ],
+      "url": "https://doi.org/10.3389/fneph.2023.1220214",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Systematic review of externally validated machine learning models for predicting acute kidney injury in general hospital patients",
+        "doi": "10.3389/fneph.2023.1220214",
+        "year": 2023,
+        "container": "Frontiers in Nephrology",
+        "type": "journal-article",
+        "authors": [
+          "Wainstein",
+          "Flanagan",
+          "Johnson",
+          "Shrapnel"
+        ],
+        "url": "https://doi.org/10.3389/fneph.2023.1220214",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "A Systematic Review of Externally Validated Machine Learning Models for Predicting AKI in General Hospital Patients",
+        "doi": "10.1681/asn.20233411s11066a",
+        "year": 2023,
+        "container": "Journal of the American Society of Nephrology",
+        "type": "journal-article",
+        "authors": [
+          "Wainstein",
+          "Flanagan",
+          "Johnson",
+          "Shrapnel"
+        ],
+        "url": "https://doi.org/10.1681/asn.20233411s11066a",
+        "sim": 0.846
+      },
+      {
+        "source": "crossref",
+        "title": "Systematic Review of Prognostic Prediction Models for Acute Kidney Injury in General Hospital Populations: Methodology",
+        "doi": "10.4135/9781529740226",
+        "year": 2020,
+        "container": "",
+        "type": "reference-book",
+        "authors": [
+          "Sarnowski",
+          "Hodgson"
+        ],
+        "url": "https://doi.org/10.4135/9781529740226",
+        "sim": 0.615
+      },
+      {
+        "source": "crossref",
+        "title": "Risk stratification for in-hospital mortality in sepsis-associated acute kidney injury patients receiving continuous renal replacement therapy: an interpretable, externally validated machine learning study",
+        "doi": "10.1080/0886022x.2026.2677246",
+        "year": 2026,
+        "container": "Renal Failure",
+        "type": "journal-article",
+        "authors": [
+          "Zheng",
+          "Gao",
+          "Hua",
+          "Dong",
+          "Yang"
+        ],
+        "url": "https://doi.org/10.1080/0886022x.2026.2677246",
+        "sim": 0.514
+      }
+    ]
+  },
+  {
+    "query_title": "A Machine Learning Algorithm Predicting Acute Kidney Injury in Intensive Care Unit Patients (NAVOY Acute Kidney Injury): Proof-of-Concept Study",
+    "thread": "classical-aki",
+    "expect_author": null,
+    "expect_year": 2023,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "A Machine Learning Algorithm Predicting Acute Kidney Injury in Intensive Care Unit Patients (NAVOY Acute Kidney Injury): Proof-of-Concept Study",
+      "doi": "10.2196/45979",
+      "year": 2023,
+      "container": "JMIR Formative Research",
+      "type": "journal-article",
+      "authors": [
+        "Persson",
+        "Gr\u00fcnwald",
+        "Morvan",
+        "Becedas",
+        "Arlbrandt"
+      ],
+      "url": "https://doi.org/10.2196/45979",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "A Machine Learning Algorithm Predicting Acute Kidney Injury in Intensive Care Unit Patients (NAVOY Acute Kidney Injury): Proof-of-Concept Study",
+        "doi": "10.2196/45979",
+        "year": 2023,
+        "container": "JMIR Formative Research",
+        "type": "journal-article",
+        "authors": [
+          "Persson",
+          "Gr\u00fcnwald",
+          "Morvan",
+          "Becedas",
+          "Arlbrandt"
+        ],
+        "url": "https://doi.org/10.2196/45979",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "A Machine Learning Algorithm Predicting Acute Kidney Injury in Intensive Care Unit Patients (NAVOY Acute Kidney Injury): Proof-of-Concept Study (Preprint)",
+        "doi": "10.2196/preprints.45979",
+        "year": 2023,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Persson",
+          "Gr\u00fcnwald",
+          "Morvan",
+          "Becedas",
+          "Arlbrandt"
+        ],
+        "url": "https://doi.org/10.2196/preprints.45979",
+        "sim": 0.968
+      },
+      {
+        "source": "crossref",
+        "title": "A Study on the Clinical Profile and Outcome of Acute Kidney Injury Patients in a Medical Intensive Care Unit",
+        "doi": "10.21275/sr25705122604",
+        "year": 2025,
+        "container": "International Journal of Science and Research (IJSR)",
+        "type": "journal-article",
+        "authors": [
+          "Kumar"
+        ],
+        "url": "https://doi.org/10.21275/sr25705122604",
+        "sim": 0.593
+      },
+      {
+        "source": "crossref",
+        "title": "Evaluation of Acute Kidney Injury in Intensive Care Unit",
+        "doi": "10.5772/25881",
+        "year": 2012,
+        "container": "Basic Nephrology and Acute Kidney Injury",
+        "type": "book-chapter",
+        "authors": [
+          "Yegenaga"
+        ],
+        "url": "https://doi.org/10.5772/25881",
+        "sim": 0.545
+      }
+    ]
+  },
+  {
+    "query_title": "Predicting outcomes of acute kidney injury in critically ill patients using machine learning",
+    "thread": "classical-aki",
+    "expect_author": null,
+    "expect_year": 2023,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Predicting outcomes of acute kidney injury in critically ill patients using machine learning",
+      "doi": "10.1038/s41598-023-36782-1",
+      "year": 2023,
+      "container": "Scientific Reports",
+      "type": "journal-article",
+      "authors": [
+        "Nateghi Haredasht",
+        "Viaene",
+        "Pottel",
+        "De Corte",
+        "Vens"
+      ],
+      "url": "https://doi.org/10.1038/s41598-023-36782-1",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Predicting outcomes of acute kidney injury in critically ill patients using machine learning",
+        "doi": "10.1038/s41598-023-36782-1",
+        "year": 2023,
+        "container": "Scientific Reports",
+        "type": "journal-article",
+        "authors": [
+          "Nateghi Haredasht",
+          "Viaene",
+          "Pottel",
+          "De Corte",
+          "Vens"
+        ],
+        "url": "https://doi.org/10.1038/s41598-023-36782-1",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Predicting acute kidney injury in critically ill patients using comorbid conditions utilizing machine learning",
+        "doi": "10.1093/ckj/sfaa145",
+        "year": 2021,
+        "container": "Clinical Kidney Journal",
+        "type": "journal-article",
+        "authors": [
+          "Shawwa",
+          "Ghosh",
+          "Lanius",
+          "Schwager",
+          "Eshelman",
+          "Kashani"
+        ],
+        "url": "https://doi.org/10.1093/ckj/sfaa145",
+        "sim": 0.818
+      },
+      {
+        "source": "crossref",
+        "title": "Acute Kidney Injury in critically ill patients: a seemingly simple syndrome",
+        "doi": "10.33612/diss.133211862",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "",
+          "Wiersema"
+        ],
+        "url": "https://doi.org/10.33612/diss.133211862",
+        "sim": 0.632
+      },
+      {
+        "source": "crossref",
+        "title": "An Interpretable Machine Learning Model for Continuous Prediction of Acute Kidney Injury in Critically Ill Patients With Atrial Fibrillation_supp1-3716727.docx",
+        "doi": "10.1109/tbme.2026.3716727/mm1",
+        "year": null,
+        "container": "",
+        "type": "component",
+        "authors": [
+          "He"
+        ],
+        "url": "https://doi.org/10.1109/tbme.2026.3716727/mm1",
+        "sim": 0.593
+      }
+    ]
+  },
+  {
+    "query_title": "Machine learning for prediction of acute kidney injury in patients diagnosed with sepsis in critical care",
+    "thread": "classical-aki",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Machine learning for prediction of acute kidney injury in patients diagnosed with sepsis in critical care",
+      "doi": "10.1371/journal.pone.0301014",
+      "year": 2024,
+      "container": "PLOS ONE",
+      "type": "journal-article",
+      "authors": [
+        "Shi",
+        "Han",
+        "Chen",
+        "Liu",
+        "Li"
+      ],
+      "url": "https://doi.org/10.1371/journal.pone.0301014",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Machine learning for prediction of acute kidney injury in patients diagnosed with sepsis in critical care",
+        "doi": "10.1371/journal.pone.0301014",
+        "year": 2024,
+        "container": "PLOS ONE",
+        "type": "journal-article",
+        "authors": [
+          "Shi",
+          "Han",
+          "Chen",
+          "Liu",
+          "Li"
+        ],
+        "url": "https://doi.org/10.1371/journal.pone.0301014",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "WITHDRAWN: Machine Learning for the Prediction of Progression in Patients With Acute Kidney Injury in Critical Care",
+        "doi": "10.21203/rs.3.rs-102978/v2",
+        "year": 2020,
+        "container": "",
+        "type": "posted-content",
+        "authors": [],
+        "url": "https://doi.org/10.21203/rs.3.rs-102978/v2",
+        "sim": 0.818
+      },
+      {
+        "source": "crossref",
+        "title": "Machine learning for the prediction of volume responsiveness in patients with oliguric acute kidney injury in critical care",
+        "doi": "10.1186/s13054-019-2411-z",
+        "year": 2019,
+        "container": "Critical Care",
+        "type": "journal-article",
+        "authors": [
+          "Zhang",
+          "Ho",
+          "Hong"
+        ],
+        "url": "https://doi.org/10.1186/s13054-019-2411-z",
+        "sim": 0.783
+      },
+      {
+        "source": "crossref",
+        "title": "Machine Learning-Based Prediction of Acute Kidney Injury in Patients Admitted to the ICU with Sepsis: A Systematic Review of Clinical Evidence",
+        "doi": "10.14744/dcybd.2023.3620",
+        "year": 2024,
+        "container": "Journal of Critical and Intensive Care",
+        "type": "journal-article",
+        "authors": [
+          "Stubnya"
+        ],
+        "url": "https://doi.org/10.14744/dcybd.2023.3620",
+        "sim": 0.615
+      }
+    ]
+  },
+  {
+    "query_title": "The eICU Collaborative Research Database, a freely available multi-center database for critical care research",
+    "thread": "data",
+    "expect_author": "Pollard",
+    "expect_year": 2018,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "The eICU Collaborative Research Database, a freely available multi-center database for critical care research",
+      "doi": "10.1038/sdata.2018.178",
+      "year": 2018,
+      "container": "Scientific Data",
+      "type": "journal-article",
+      "authors": [
+        "Pollard",
+        "Johnson",
+        "Raffa",
+        "Celi",
+        "Mark",
+        "Badawi"
+      ],
+      "url": "https://doi.org/10.1038/sdata.2018.178",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "The eICU Collaborative Research Database, a freely available multi-center database for critical care research",
+        "doi": "10.1038/sdata.2018.178",
+        "year": 2018,
+        "container": "Scientific Data",
+        "type": "journal-article",
+        "authors": [
+          "Pollard",
+          "Johnson",
+          "Raffa",
+          "Celi",
+          "Mark",
+          "Badawi"
+        ],
+        "url": "https://doi.org/10.1038/sdata.2018.178",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Characterizing the Patients, Hospitals, and Data Quality of the eICU Collaborative Research Database*",
+        "doi": "10.1097/ccm.0000000000004633",
+        "year": 2020,
+        "container": "Critical Care Medicine",
+        "type": "journal-article",
+        "authors": [
+          "O\u2019Halloran",
+          "Kwong",
+          "Veldhoen",
+          "Maslove"
+        ],
+        "url": "https://doi.org/10.1097/ccm.0000000000004633",
+        "sim": 0.421
+      },
+      {
+        "source": "crossref",
+        "title": "Curation and description of a blood glucose management and nutritional support cohort using the eICU collaborative research database",
+        "doi": "10.1101/2023.04.20.23288845",
+        "year": 2023,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Fitzgerald",
+          "Perez-Concha",
+          "Gallego-Luxan",
+          "Rudd",
+          "Jorm"
+        ],
+        "url": "https://doi.org/10.1101/2023.04.20.23288845",
+        "sim": 0.364
+      },
+      {
+        "source": "crossref",
+        "title": "The relationship between hyperglycaemia on admission and patient outcome is modified by hyperlactatemia and diabetic status: a retrospective analysis of the eICU collaborative research database",
+        "doi": "10.1101/2023.05.01.23289339",
+        "year": 2023,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Fitzgerald",
+          "Perez-Concha",
+          "Gallego-Luxan",
+          "Rudd",
+          "Jorm"
+        ],
+        "url": "https://doi.org/10.1101/2023.05.01.23289339",
+        "sim": 0.286
+      }
+    ]
+  },
+  {
+    "query_title": "MIMIC-IV, a freely accessible electronic health record dataset",
+    "thread": "data",
+    "expect_author": "Johnson",
+    "expect_year": 2023,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "MIMIC-IV, a freely accessible electronic health record dataset",
+      "doi": "10.1038/s41597-022-01899-x",
+      "year": 2023,
+      "container": "Scientific Data",
+      "type": "journal-article",
+      "authors": [
+        "Johnson",
+        "Bulgarelli",
+        "Shen",
+        "Gayles",
+        "Shammout",
+        "Horng",
+        "Pollard",
+        "Hao",
+        "Moody",
+        "Gow",
+        "Lehman",
+        "Celi"
+      ],
+      "url": "https://doi.org/10.1038/s41597-022-01899-x",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "MIMIC-IV, a freely accessible electronic health record dataset",
+        "doi": "10.1038/s41597-022-01899-x",
+        "year": 2023,
+        "container": "Scientific Data",
+        "type": "journal-article",
+        "authors": [
+          "Johnson",
+          "Bulgarelli",
+          "Shen",
+          "Gayles",
+          "Shammout",
+          "Horng",
+          "Pollard",
+          "Hao",
+          "Moody",
+          "Gow",
+          "Lehman",
+          "Celi"
+        ],
+        "url": "https://doi.org/10.1038/s41597-022-01899-x",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Author Correction: MIMIC-IV, a freely accessible electronic health record dataset",
+        "doi": "10.1038/s41597-023-01945-2",
+        "year": 2023,
+        "container": "Scientific Data",
+        "type": "journal-article",
+        "authors": [
+          "Johnson",
+          "Bulgarelli",
+          "Shen",
+          "Gayles",
+          "Shammout",
+          "Horng",
+          "Pollard",
+          "Moody",
+          "Gow",
+          "Lehman",
+          "Celi",
+          "Mark"
+        ],
+        "url": "https://doi.org/10.1038/s41597-023-01945-2",
+        "sim": 0.889
+      },
+      {
+        "source": "crossref",
+        "title": "Author Correction: MIMIC-IV, a freely accessible electronic health record dataset",
+        "doi": "10.1038/s41597-023-02136-9",
+        "year": 2023,
+        "container": "Scientific Data",
+        "type": "journal-article",
+        "authors": [
+          "Johnson",
+          "Bulgarelli",
+          "Shen",
+          "Gayles",
+          "Shammout",
+          "Horng",
+          "Pollard",
+          "Hao",
+          "Moody",
+          "Gow",
+          "Lehman",
+          "Celi"
+        ],
+        "url": "https://doi.org/10.1038/s41597-023-02136-9",
+        "sim": 0.889
+      },
+      {
+        "source": "crossref",
+        "title": "Supplemental Information 4: EHR dataset from MIMIC IV and MIMIC IV ED.",
+        "doi": "10.7717/peerj-cs.3743/supp-4",
+        "year": null,
+        "container": "",
+        "type": "component",
+        "authors": [],
+        "url": "https://doi.org/10.7717/peerj-cs.3743/supp-4",
+        "sim": 0.353
+      }
+    ]
+  },
+  {
+    "query_title": "XGBoost: A Scalable Tree Boosting System",
+    "thread": "classical-methods",
+    "expect_author": "Chen",
+    "expect_year": 2016,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "XGBoost: A Scalable Tree Boosting System",
+      "url": "http://arxiv.org/abs/1603.02754v3",
+      "arxiv_id": "1603.02754",
+      "doi": "10.1145/2939672.2939785",
+      "year": 2016,
+      "authors": [
+        "Chen",
+        "Guestrin"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "XGBoost: A Scalable Tree Boosting System",
+        "url": "http://arxiv.org/abs/1603.02754v3",
+        "arxiv_id": "1603.02754",
+        "doi": "10.1145/2939672.2939785",
+        "year": 2016,
+        "authors": [
+          "Chen",
+          "Guestrin"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Robust Detection of Static and Moving Chipless RFID Tags Using Scalable Tree Boosting System",
+        "doi": "10.1109/wiecon-ece60392.2023.10456432",
+        "year": 2023,
+        "container": "2023 IEEE 9th International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE)",
+        "type": "proceedings-article",
+        "authors": [
+          "Afrin",
+          "Islam"
+        ],
+        "url": "https://doi.org/10.1109/wiecon-ece60392.2023.10456432",
+        "sim": 0.5
+      },
+      {
+        "source": "crossref",
+        "title": "Tree Modeling and Gradient Boosting with Scikit-Learn, XGBoost, PySpark, and H2O",
+        "doi": "10.1007/978-1-4842-7762-1_6",
+        "year": 2022,
+        "container": "Data Science Solutions with Python",
+        "type": "book-chapter",
+        "authors": [
+          "Nokeri"
+        ],
+        "url": "https://doi.org/10.1007/978-1-4842-7762-1_6",
+        "sim": 0.429
+      },
+      {
+        "source": "crossref",
+        "title": "Mxb: Multi-Stage Xgboost For Efficient Tree-Based Gradient Boosting",
+        "doi": "10.1109/icipw68931.2025.11386108",
+        "year": 2025,
+        "container": "2025 IEEE International Conference on Image Processing Workshops (ICIPW)",
+        "type": "proceedings-article",
+        "authors": [
+          "Li",
+          "Cao",
+          "Jay Kuo"
+        ],
+        "url": "https://doi.org/10.1109/icipw68931.2025.11386108",
+        "sim": 0.429
+      }
+    ]
+  },
+  {
+    "query_title": "Long Short-Term Memory",
+    "thread": "classical-methods",
+    "expect_author": "Hochreiter",
+    "expect_year": 1997,
+    "verified": false,
+    "accepted": null,
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "Ensemble long short-term memory (EnLSTM) network",
+        "url": "http://arxiv.org/abs/2004.13562v2",
+        "arxiv_id": "2004.13562",
+        "doi": "10.1029/2020GL087685",
+        "year": 2020,
+        "authors": [
+          "Chen",
+          "Zhang"
+        ],
+        "sim": 0.727
+      },
+      {
+        "source": "arxiv",
+        "title": "State estimator design using Jordan based long short-term memory networks",
+        "url": "http://arxiv.org/abs/2502.04518v1",
+        "arxiv_id": "2502.04518",
+        "doi": null,
+        "year": 2025,
+        "authors": [
+          "Kaur",
+          "Morris"
+        ],
+        "sim": 0.571
+      },
+      {
+        "source": "arxiv",
+        "title": "Simulation of Open Quantum Dynamics with Bootstrap-Based Long Short-Term Memory Recurrent Neural Network",
+        "url": "http://arxiv.org/abs/2108.01310v2",
+        "arxiv_id": "2108.01310",
+        "doi": "10.1021/acs.jpclett.1c02672",
+        "year": 2021,
+        "authors": [
+          "Lin",
+          "Peng",
+          "Gu",
+          "Lan"
+        ],
+        "sim": 0.471
+      },
+      {
+        "source": "arxiv",
+        "title": "Comparative Study of Long Short-Term Memory (LSTM) and Quantum Long Short-Term Memory (QLSTM): Prediction of Stock Market Movement",
+        "url": "http://arxiv.org/abs/2409.08297v1",
+        "arxiv_id": "2409.08297",
+        "doi": null,
+        "year": 2024,
+        "authors": [
+          "Mahmood",
+          "Ahmad",
+          "Ansar",
+          "Darwish",
+          "Sherwani"
+        ],
+        "sim": 0.471
+      }
+    ]
+  },
+  {
+    "query_title": "A Unified Approach to Interpreting Model Predictions",
+    "thread": "classical-methods",
+    "expect_author": "Lundberg",
+    "expect_year": 2017,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "A Unified Approach to Interpreting Model Predictions",
+      "url": "http://arxiv.org/abs/1705.07874v2",
+      "arxiv_id": "1705.07874",
+      "doi": null,
+      "year": 2017,
+      "authors": [
+        "Lundberg",
+        "Lee"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "A Unified Approach to Interpreting Model Predictions",
+        "url": "http://arxiv.org/abs/1705.07874v2",
+        "arxiv_id": "1705.07874",
+        "doi": null,
+        "year": 2017,
+        "authors": [
+          "Lundberg",
+          "Lee"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Interpreting Uncertainty in Model Predictions for Covid-19 Diagnosis",
+        "doi": "10.32920/22734407",
+        "year": 2023,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Murugamoorthy",
+          "Khan"
+        ],
+        "url": "https://doi.org/10.32920/22734407",
+        "sim": 0.5
+      },
+      {
+        "source": "crossref",
+        "title": "Interpreting Uncertainty in Model Predictions for Covid-19 Diagnosis",
+        "doi": "10.32920/22734407.v1",
+        "year": 2023,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Murugamoorthy",
+          "Khan"
+        ],
+        "url": "https://doi.org/10.32920/22734407.v1",
+        "sim": 0.5
+      },
+      {
+        "source": "crossref",
+        "title": "Unified Deep Learning Model for Multitask Reaction Predictions with Explanation",
+        "doi": "10.1021/acs.jcim.1c01467.s001",
+        "year": null,
+        "container": "",
+        "type": "component",
+        "authors": [],
+        "url": "https://doi.org/10.1021/acs.jcim.1c01467.s001",
+        "sim": 0.462
+      }
+    ]
+  },
+  {
+    "query_title": "Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach",
+    "thread": "classical-methods",
+    "expect_author": "DeLong",
+    "expect_year": 1988,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Comparing the Areas under Two or More Correlated Receiver Operating Characteristic Curves: A Nonparametric Approach",
+      "doi": "10.2307/2531595",
+      "year": 1988,
+      "container": "Biometrics",
+      "type": "journal-article",
+      "authors": [
+        "DeLong",
+        "DeLong",
+        "Clarke-Pearson"
+      ],
+      "url": "https://doi.org/10.2307/2531595",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Comparing the Areas under Two or More Correlated Receiver Operating Characteristic Curves: A Nonparametric Approach",
+        "doi": "10.2307/2531595",
+        "year": 1988,
+        "container": "Biometrics",
+        "type": "journal-article",
+        "authors": [
+          "DeLong",
+          "DeLong",
+          "Clarke-Pearson"
+        ],
+        "url": "https://doi.org/10.2307/2531595",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "The Average Area under Correlated Receiver Operating Characteristic Curves: A Nonparametric Approach Based on Generalized Two-Sample Wilcoxon Statistics",
+        "doi": "10.1111/1467-9876.00238",
+        "year": 2001,
+        "container": "Journal of the Royal Statistical Society Series C: Applied Statistics",
+        "type": "journal-article",
+        "authors": [
+          "Lee",
+          "Rosner"
+        ],
+        "url": "https://doi.org/10.1111/1467-9876.00238",
+        "sim": 0.621
+      },
+      {
+        "source": "crossref",
+        "title": "Fast Implementation of DeLong\u2019s Algorithm for Comparing the Areas Under Correlated Receiver Operating Characteristic Curves",
+        "doi": "10.1109/lsp.2014.2337313",
+        "year": 2014,
+        "container": "IEEE Signal Processing Letters",
+        "type": "journal-article",
+        "authors": [
+          "Sun",
+          "Xu"
+        ],
+        "url": "https://doi.org/10.1109/lsp.2014.2337313",
+        "sim": 0.615
+      },
+      {
+        "source": "crossref",
+        "title": "Sampling variability of nonparametric estimates of the areas under receiver operating characteristic curves: An update",
+        "doi": "10.1016/s1076-6332(97)80161-4",
+        "year": 1997,
+        "container": "Academic Radiology",
+        "type": "journal-article",
+        "authors": [
+          "Hanley",
+          "Hajian-Tilaki"
+        ],
+        "url": "https://doi.org/10.1016/s1076-6332(97)80161-4",
+        "sim": 0.583
+      }
+    ]
+  },
+  {
+    "query_title": "Epidemiology of acute kidney injury in critically ill patients: the multinational AKI-EPI study",
+    "thread": "clinical",
+    "expect_author": "Hoste",
+    "expect_year": 2015,
+    "verified": false,
+    "accepted": null,
+    "near_misses": [
+      {
+        "source": "crossref",
+        "title": "Faculty Opinions recommendation of Epidemiology of acute kidney injury in critically ill patients: the multinational AKI-EPI study.",
+        "doi": "10.3410/f.725634183.793527082",
+        "year": 2017,
+        "container": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+        "type": "dataset",
+        "authors": [
+          "Goldstein"
+        ],
+        "url": "https://doi.org/10.3410/f.725634183.793527082",
+        "sim": 0.88,
+        "reject_reason": [
+          "author 'Hoste' not in ['Goldstein']",
+          "year 2017 != expected 2015"
+        ]
+      }
+    ],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Faculty Opinions recommendation of Epidemiology of acute kidney injury in critically ill patients: the multinational AKI-EPI study.",
+        "doi": "10.3410/f.725634183.793527082",
+        "year": 2017,
+        "container": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+        "type": "dataset",
+        "authors": [
+          "Goldstein"
+        ],
+        "url": "https://doi.org/10.3410/f.725634183.793527082",
+        "sim": 0.88
+      },
+      {
+        "source": "crossref",
+        "title": "Epidemiology of Acute Kidney Injury in Critically Ill Patients",
+        "doi": "10.1016/b978-0-323-44942-7.00013-3",
+        "year": 2019,
+        "container": "Critical Care Nephrology",
+        "type": "book-chapter",
+        "authors": [
+          "Hoste"
+        ],
+        "url": "https://doi.org/10.1016/b978-0-323-44942-7.00013-3",
+        "sim": 0.778
+      },
+      {
+        "source": "crossref",
+        "title": "Acute Kidney Injury in critically ill patients: a seemingly simple syndrome",
+        "doi": "10.33612/diss.133211862",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "",
+          "Wiersema"
+        ],
+        "url": "https://doi.org/10.33612/diss.133211862",
+        "sim": 0.6
+      },
+      {
+        "source": "crossref",
+        "title": "Prevalence and Clinical Course of Acute Kidney Injury (AKI) in Critically Ill Patients Admitted in Pediatric Intensive Care Unit- A Prospective Observational Study",
+        "doi": "10.18535/jmscr/v5i4.148",
+        "year": 2017,
+        "container": "Journal of Medical Science And clinical Research",
+        "type": "journal-article",
+        "authors": [
+          "",
+          "Verma"
+        ],
+        "url": "https://doi.org/10.18535/jmscr/v5i4.148",
+        "sim": 0.552
+      }
+    ]
+  },
+  {
+    "query_title": "Acute kidney injury in critically ill patients: an update on recent developments",
+    "thread": "clinical",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": false,
+    "accepted": null,
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Acute kidney injury in critically ill cancer patients: an update",
+        "doi": "10.1186/s13054-016-1382-6",
+        "year": 2016,
+        "container": "Critical Care",
+        "type": "journal-article",
+        "authors": [
+          "Lameire",
+          "Vanholder",
+          "Van Biesen",
+          "Benoit"
+        ],
+        "url": "https://doi.org/10.1186/s13054-016-1382-6",
+        "sim": 0.824
+      },
+      {
+        "source": "crossref",
+        "title": "Acute Kidney Injury in critically ill patients: a seemingly simple syndrome",
+        "doi": "10.33612/diss.133211862",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "",
+          "Wiersema"
+        ],
+        "url": "https://doi.org/10.33612/diss.133211862",
+        "sim": 0.667
+      },
+      {
+        "source": "crossref",
+        "title": "Extra-corporeal blood purification for critically ill patients with septic acute kidney injury",
+        "doi": "10.5353/th_991043983779903414",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "Shum"
+        ],
+        "url": "https://doi.org/10.5353/th_991043983779903414",
+        "sim": 0.6
+      },
+      {
+        "source": "crossref",
+        "title": "Peer Review #3 of \"Acute kidney injury-attributable mortality in critically ill patients with sepsis (v0.2)\"",
+        "doi": "10.7287/peerj.13184v0.2/reviews/3",
+        "year": 2022,
+        "container": "",
+        "type": "peer-review",
+        "authors": [],
+        "url": "https://doi.org/10.7287/peerj.13184v0.2/reviews/3",
+        "sim": 0.522
+      }
+    ]
+  },
+  {
+    "query_title": "Quantum State Preparation for Medical Data: Comprehensive Methods, Implementation Challenges, and Clinical Prospects",
+    "thread": "qml-methods",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "Quantum State Preparation for Medical Data: Comprehensive Methods, Implementation Challenges, and Clinical Prospects",
+      "url": "http://arxiv.org/abs/2508.05063v1",
+      "arxiv_id": "2508.05063",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Rajput",
+        "Bansal"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "Quantum State Preparation for Medical Data: Comprehensive Methods, Implementation Challenges, and Clinical Prospects",
+        "url": "http://arxiv.org/abs/2508.05063v1",
+        "arxiv_id": "2508.05063",
+        "doi": null,
+        "year": 2025,
+        "authors": [
+          "Rajput",
+          "Bansal"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Variational quantum state preparation via quantum data buses",
+        "doi": "10.22331/q-2020-07-06-290",
+        "year": 2020,
+        "container": "Quantum",
+        "type": "journal-article",
+        "authors": [
+          "Kuzmin",
+          "Silvi"
+        ],
+        "url": "https://doi.org/10.22331/q-2020-07-06-290",
+        "sim": 0.444
+      },
+      {
+        "source": "crossref",
+        "title": "Early markers of preeclampsia: a current state, analysis, and clinical implementation prospects",
+        "doi": "10.14739/2310-1210.2026.2.342079",
+        "year": 2026,
+        "container": "Zaporozhye Medical Journal",
+        "type": "journal-article",
+        "authors": [
+          "Ishchenko"
+        ],
+        "url": "https://doi.org/10.14739/2310-1210.2026.2.342079",
+        "sim": 0.4
+      },
+      {
+        "source": "crossref",
+        "title": "Harnessing Hydropower Potential in Delta State, Nigeria: A Comprehensive Analysis of Prospects and Challenges",
+        "doi": "10.47191/etj/v10i12.10",
+        "year": 2025,
+        "container": "Engineering and Technology Journal",
+        "type": "journal-article",
+        "authors": [
+          "",
+          "Ekpoh",
+          "Otuagoma",
+          "",
+          "Eyenubo",
+          ""
+        ],
+        "url": "https://doi.org/10.47191/etj/v10i12.10",
+        "sim": 0.381
+      }
+    ]
+  },
+  {
+    "query_title": "Expressivity vs. Generalization in Quantum Kernel Methods",
+    "thread": "qml-methods",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Expressivity vs. Generalization in Quantum Kernel Methods",
+      "doi": "10.14428/esann/2025.es2025-152",
+      "year": 2025,
+      "container": "ESANN 2025 proceesdings",
+      "type": "proceedings-article",
+      "authors": [
+        "Gross",
+        "Lange",
+        "Bujnowski",
+        "Rieser"
+      ],
+      "url": "https://doi.org/10.14428/esann/2025.es2025-152",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Expressivity vs. Generalization in Quantum Kernel Methods",
+        "doi": "10.14428/esann/2025.es2025-152",
+        "year": 2025,
+        "container": "ESANN 2025 proceesdings",
+        "type": "proceedings-article",
+        "authors": [
+          "Gross",
+          "Lange",
+          "Bujnowski",
+          "Rieser"
+        ],
+        "url": "https://doi.org/10.14428/esann/2025.es2025-152",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Quantum Modelling of Time Series: Expressivity vs. Trainability",
+        "doi": "10.21203/rs.3.rs-7253212/v1",
+        "year": 2025,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Cybulski",
+          "Zajac"
+        ],
+        "url": "https://doi.org/10.21203/rs.3.rs-7253212/v1",
+        "sim": 0.462
+      },
+      {
+        "source": "crossref",
+        "title": "Kernel mean embedding vs kernel density estimation: A quantum perspective",
+        "doi": "10.1016/j.physleta.2024.130047",
+        "year": 2024,
+        "container": "Physics Letters A",
+        "type": "journal-article",
+        "authors": [
+          "Berquin"
+        ],
+        "url": "https://doi.org/10.1016/j.physleta.2024.130047",
+        "sim": 0.429
+      },
+      {
+        "source": "crossref",
+        "title": "Saturation in Recurrent Neural Networks : Expressivity, Learnability, and Generalization",
+        "doi": "10.70675/f9de8776zfa84z4160za76dz69481a0223e1",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "",
+          "Mitarchuk"
+        ],
+        "url": "https://doi.org/10.70675/f9de8776zfa84z4160za76dz69481a0223e1",
+        "sim": 0.308
+      }
+    ]
+  }
+]

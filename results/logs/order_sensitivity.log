@@ -1,0 +1,7 @@
+h=24 TRE                    true=0.643 reversed=0.529 permuted=0.582 | drop +0.061
+h=24 TRE_noent              true=0.630 reversed=0.449 permuted=0.515 | drop +0.115
+h=24 QLSTM                  true=0.626 reversed=0.534 permuted=0.589 | drop +0.036
+h=24 QLSTM_classicalgate    true=0.638 reversed=0.507 permuted=0.552 | drop +0.087
+
+A larger drop means the model relies more on the order in which
+measurements arrive, rather than only on their values.

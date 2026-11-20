@@ -1,0 +1,27 @@
+frac=0.10  LogisticRegression=0.598  RandomForest=0.623  VQC=0.609  XGBoost=0.592
+frac=0.20  LogisticRegression=0.633  RandomForest=0.621  VQC=0.632  XGBoost=0.584
+frac=0.35  LogisticRegression=0.684  RandomForest=0.662  VQC=0.663  XGBoost=0.632
+frac=0.50  LogisticRegression=0.695  RandomForest=0.665  VQC=0.674  XGBoost=0.634
+frac=0.75  LogisticRegression=0.696  RandomForest=0.673  VQC=0.672  XGBoost=0.644
+frac=1.00  LogisticRegression=0.699  RandomForest=0.672  VQC=0.658  XGBoost=0.658
+
+=== mean AUROC over 3 seeds ===
+model  LogisticRegression  RandomForest    VQC  XGBoost
+frac                                                   
+0.10                0.603         0.622  0.620    0.590
+0.20                0.639         0.627  0.633    0.591
+0.35                0.688         0.664  0.668    0.631
+0.50                0.696         0.665  0.674    0.635
+0.75                0.694         0.674  0.672    0.645
+1.00                0.699         0.672  0.658    0.658
+
+=== VQC minus best classical (positive = quantum ahead) ===
+frac
+0.10   -0.002
+0.20   -0.006
+0.35   -0.021
+0.50   -0.022
+0.75   -0.023
+1.00   -0.041
+
+saved results/logs/learning_curve.csv

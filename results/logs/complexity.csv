@@ -1,0 +1,14 @@
+model,kind,params,fit_seconds,predict_seconds,note
+Logistic Regression,classical,9,0.0,0.0,
+XGBoost,classical,200 trees,0.02,0.001,
+MLP control,classical,61,1.48,0.0,
+LSTM,classical,5793,3.92,0.001,
+Transformer,classical,3969,6.8,0.001,
+GRU,classical,4641,3.77,0.001,
+Classical-gate LSTM,classical,757,1.13,0.002,
+Minimal-QLSTM (6 qubits),quantum,619,18.93,0.032,
+"VQC (8 qubits, 2 layers)",quantum,49,23.83,0.039,
+"VQC (8 qubits, 3 layers)",quantum,73,11.3,0.055,
+Kernel SVM (8 qubits),quantum,2497 support rows,78.66,38.35,fit = one n x n kernel matrix
+TRE (6 qubits),quantum,103,22.69,0.025,
+Transformer (tabular),classical,2545,8.97,0.003,

@@ -1,0 +1,8 @@
+h=12 static  MLP AUROC=0.593 [0.534,0.648] hidden=4 params=61 (VQC 49)
+h=12 delta   MLP AUROC=0.663 [0.603,0.716] hidden=4 params=61 (VQC 49)
+h=24 static  MLP AUROC=0.629 [0.573,0.682] hidden=4 params=61 (VQC 49)
+h=24 delta   MLP AUROC=0.642 [0.587,0.697] hidden=4 params=61 (VQC 49)
+h=48 static  MLP AUROC=0.527 [0.477,0.580] hidden=4 params=61 (VQC 49)
+h=48 delta   MLP AUROC=0.651 [0.609,0.692] hidden=4 params=61 (VQC 49)
+
+saved results/logs/mlp_control.csv

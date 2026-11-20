@@ -1,0 +1,17 @@
+seed 0 done in 602s: VQC=0.671, MLP=0.656, LR=0.698, TabT=0.669, QSVM=0.637, QLSTM=0.625, Gate=0.637, TRE=0.658, TREadd=0.599, LSTM=0.619, SeqT=0.637
+seed 1 done in 550s: VQC=0.674, MLP=0.638, LR=0.698, TabT=0.670, QSVM=0.633, QLSTM=0.616, Gate=0.653, TRE=0.656, TREadd=0.623, LSTM=0.615, SeqT=0.627
+seed 2 done in 630s: VQC=0.679, MLP=0.649, LR=0.698, TabT=0.675, QSVM=0.652, QLSTM=0.623, Gate=0.647, TRE=0.652, TREadd=0.613, LSTM=0.614, SeqT=0.637
+seed 3 done in 537s: VQC=0.670, MLP=0.643, LR=0.698, TabT=0.680, QSVM=0.651, QLSTM=0.612, Gate=0.640, TRE=0.632, TREadd=0.592, LSTM=0.608, SeqT=0.649
+seed 4 done in 583s: VQC=0.663, MLP=0.682, LR=0.698, TabT=0.662, QSVM=0.642, QLSTM=0.652, Gate=0.666, TRE=0.659, TREadd=0.617, LSTM=0.617, SeqT=0.641
+                                         mean    std    min    max
+pair                                                              
+Kernel SVM vs logistic regression      -0.055  0.008 -0.065 -0.046
+Kernel SVM vs tabular transformer      -0.028  0.007 -0.037 -0.020
+Minimal-QLSTM vs classical gate (abl.) -0.023  0.010 -0.037 -0.012
+Minimal-QLSTM vs transformer           -0.013  0.017 -0.037  0.010
+TRE vs LSTM                             0.036  0.007  0.024  0.041
+TRE vs additive control (abl.)          0.042  0.010  0.033  0.059
+TRE vs transformer                      0.013  0.018 -0.018  0.029
+VQC vs MLP control                      0.017  0.022 -0.019  0.035
+VQC vs logistic regression             -0.027  0.006 -0.036 -0.019
+VQC vs tabular transformer              0.000  0.005 -0.010  0.003

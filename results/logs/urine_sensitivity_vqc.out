@@ -1,0 +1,6 @@
+h=12 creatinine-only  LR=0.679 VQC=0.672 G=-0.007
+h=12 creatinine+urine LR=0.599 VQC=0.609 G=+0.010
+h=24 creatinine-only  LR=0.698 VQC=0.667 G=-0.032
+h=24 creatinine+urine LR=0.614 VQC=0.591 G=-0.023
+h=48 creatinine-only  LR=0.651 VQC=0.621 G=-0.031
+h=48 creatinine+urine LR=0.610 VQC=0.539 G=-0.071

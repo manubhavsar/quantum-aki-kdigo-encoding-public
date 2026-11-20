@@ -1,0 +1,84 @@
+{
+  "eicu": {
+    "n_stays_with_ge2_cr": 2058,
+    "n_patients": 1609,
+    "n_hospitals": 182,
+    "stay_level_aki_rate": 0.2541302235179786,
+    "criterion_counts": {
+      "C1_delta_0.3_48h": 453,
+      "C2_ratio_1.5_7d": 70
+    },
+    "peak_stage_counts": {
+      "0": 1494,
+      "1": 323,
+      "2": 53,
+      "3": 188
+    },
+    "n_prediction_points": 4955,
+    "stay_level_aki_rate_uo_sensitivity": 0.4956268221574344,
+    "criterion_counts_uo_sensitivity": {
+      "C3_uo_lt_0.5_6h": 627,
+      "C1_delta_0.3_48h": 348,
+      "C2_ratio_1.5_7d": 45
+    },
+    "h12_n": 3869,
+    "h12_pos": 135,
+    "h12_pos_rate": 0.0349,
+    "h12_uo_n": 2824,
+    "h12_uo_pos": 266,
+    "h12_uo_pos_rate": 0.0942,
+    "h24_n": 3122,
+    "h24_pos": 249,
+    "h24_pos_rate": 0.0798,
+    "h24_uo_n": 2340,
+    "h24_uo_pos": 438,
+    "h24_uo_pos_rate": 0.1872,
+    "h48_n": 2184,
+    "h48_pos": 361,
+    "h48_pos_rate": 0.1653,
+    "h48_uo_n": 1758,
+    "h48_uo_pos": 628,
+    "h48_uo_pos_rate": 0.3572
+  },
+  "mimic": {
+    "n_stays_with_ge2_cr": 137,
+    "n_patients": 98,
+    "n_hospitals": 1,
+    "stay_level_aki_rate": 0.45985401459854014,
+    "criterion_counts": {
+      "C1_delta_0.3_48h": 56,
+      "C2_ratio_1.5_7d": 7
+    },
+    "peak_stage_counts": {
+      "0": 72,
+      "1": 32,
+      "2": 13,
+      "3": 20
+    },
+    "n_prediction_points": 341,
+    "stay_level_aki_rate_uo_sensitivity": 0.6715328467153284,
+    "criterion_counts_uo_sensitivity": {
+      "C3_uo_lt_0.5_6h": 51,
+      "C1_delta_0.3_48h": 37,
+      "C2_ratio_1.5_7d": 4
+    },
+    "h12_n": 292,
+    "h12_pos": 20,
+    "h12_pos_rate": 0.0685,
+    "h12_uo_n": 142,
+    "h12_uo_pos": 30,
+    "h12_uo_pos_rate": 0.2113,
+    "h24_n": 256,
+    "h24_pos": 36,
+    "h24_pos_rate": 0.1406,
+    "h24_uo_n": 124,
+    "h24_uo_pos": 45,
+    "h24_uo_pos_rate": 0.3629,
+    "h48_n": 201,
+    "h48_pos": 58,
+    "h48_pos_rate": 0.2886,
+    "h48_uo_n": 100,
+    "h48_uo_pos": 63,
+    "h48_uo_pos_rate": 0.63
+  }
+}

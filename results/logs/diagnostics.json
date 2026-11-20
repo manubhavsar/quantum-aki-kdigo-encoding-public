@@ -1,0 +1,42 @@
+{
+  "urine_charting": {
+    "median_gap_min": 120.0,
+    "frac_bins_single_entry": 0.5098898347521282,
+    "pct_bins_single_entry": 51.0,
+    "pct_oliguric_all_bins": 24.4,
+    "pct_oliguric_bins_ge2_entries": 18.9
+  },
+  "kernel_concentration_qubits": [
+    {
+      "n_qubits": 4,
+      "offdiag_mean": 0.4738610656279405,
+      "offdiag_std": 0.2113912955855582
+    },
+    {
+      "n_qubits": 6,
+      "offdiag_mean": 0.319054100714889,
+      "offdiag_std": 0.17994294799426747
+    },
+    {
+      "n_qubits": 8,
+      "offdiag_mean": 0.24970576532430436,
+      "offdiag_std": 0.15180908711330757
+    },
+    {
+      "n_qubits": 10,
+      "offdiag_mean": 0.14960922486191577,
+      "offdiag_std": 0.11912904507443926
+    },
+    {
+      "n_qubits": 12,
+      "offdiag_mean": 0.10043669748276125,
+      "offdiag_std": 0.08723468964950472
+    }
+  ],
+  "external_auroc_range": {
+    "min": 0.5374969857728479,
+    "max": 0.7368579696165904,
+    "min_rounded_2dp": 0.54,
+    "max_rounded_2dp": 0.74
+  }
+}

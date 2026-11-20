@@ -1,0 +1,25 @@
+--- qubit count (PCA-projected delta block) ---
+  qubits=2: AUROC=0.664 AUPRC=0.170 (24s)
+  qubits=3: AUROC=0.648 AUPRC=0.173 (33s)
+  qubits=4: AUROC=0.693 AUPRC=0.179 (44s)
+  qubits=6: AUROC=0.665 AUPRC=0.174 (79s)
+  qubits=8: AUROC=0.656 AUPRC=0.166 (172s)
+--- circuit depth (delta block, 8 qubits) ---
+  layers=1: AUROC=0.684 AUPRC=0.157 (66s)
+  layers=2: AUROC=0.653 AUPRC=0.167 (116s)
+  layers=3: AUROC=0.656 AUPRC=0.166 (168s)
+  layers=4: AUROC=0.654 AUPRC=0.131 (218s)
+  layers=5: AUROC=0.647 AUPRC=0.141 (264s)
+--- encoding bandwidth ---
+  bw=0.15: AUROC=0.577 AUPRC=0.135 (167s)
+  bw=0.30: AUROC=0.648 AUPRC=0.158 (169s)
+  bw=0.60: AUROC=0.656 AUPRC=0.166 (170s)
+  bw=1.00: AUROC=0.678 AUPRC=0.167 (169s)
+  bw=1.50: AUROC=0.666 AUPRC=0.142 (167s)
+  bw=3.14: AUROC=0.600 AUPRC=0.106 (168s)
+--- encoding block (8 qubits, 3 layers) ---
+  block=static: AUROC=0.604 AUPRC=0.121 (169s)
+  block=delta: AUROC=0.656 AUPRC=0.166 (169s)
+  block=combined: AUROC=0.633 AUPRC=0.152 (168s)
+
+saved results/logs/ablations.csv

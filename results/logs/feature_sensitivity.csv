@@ -1,0 +1,4 @@
+horizon,narrow_model,narrow_auroc,rich_model,rich_auroc,rich_n_features,diff,delong_p
+12,LogisticRegression|combined,0.7106637703584678,RandomForest|rich_all,0.7159941677081474,112,0.00533039734967955,0.8345618338966637
+24,LogisticRegression|combined,0.7144980898183755,RandomForest|rich_delta,0.7013323045051769,39,-0.013165785313198564,0.5420441258329494
+48,LogisticRegression|combined,0.6815262960357269,RandomForest|rich_delta,0.6680899494456035,39,-0.013436346590123383,0.48233912963797654

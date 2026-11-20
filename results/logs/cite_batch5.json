@@ -1,0 +1,411 @@
+[
+  {
+    "query_title": "Better than classical? The subtle art of benchmarking quantum machine learning models",
+    "thread": "qml-benchmarking",
+    "expect_author": "Bowles",
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "Better than classical? The subtle art of benchmarking quantum machine learning models",
+      "url": "http://arxiv.org/abs/2403.07059v2",
+      "arxiv_id": "2403.07059",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Bowles",
+        "Ahmed",
+        "Schuld"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "Better than classical? The subtle art of benchmarking quantum machine learning models",
+        "url": "http://arxiv.org/abs/2403.07059v2",
+        "arxiv_id": "2403.07059",
+        "doi": null,
+        "year": 2024,
+        "authors": [
+          "Bowles",
+          "Ahmed",
+          "Schuld"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Why Classical-Quantum Machine Learning Works Better Than Classical Machine Learning",
+        "doi": "10.1109/qpain69676.2026.11546286",
+        "year": 2026,
+        "container": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence &amp;amp; Networking (QPAIN)",
+        "type": "proceedings-article",
+        "authors": [
+          "Chy",
+          "Shahriyar"
+        ],
+        "url": "https://doi.org/10.1109/qpain69676.2026.11546286",
+        "sim": 0.667
+      },
+      {
+        "source": "crossref",
+        "title": "The Future of Breast Cancer Diagnosis: Benchmarking Quantum Machine Learning Models against Classical Techniques",
+        "doi": "10.71097/ijsat.v16.i3.8236",
+        "year": 2025,
+        "container": "International Journal on Science and Technology",
+        "type": "journal-article",
+        "authors": [
+          "PUSHPANJALI",
+          "Adisesha"
+        ],
+        "url": "https://doi.org/10.71097/ijsat.v16.i3.8236",
+        "sim": 0.545
+      },
+      {
+        "source": "crossref",
+        "title": "Benchmarking Classical and Quantum Machine Learning for Potency Prediction across Ten Therapeutically Relevant Targets",
+        "doi": "10.1021/acsmedchemlett.5c00724.s001",
+        "year": null,
+        "container": "",
+        "type": "component",
+        "authors": [],
+        "url": "https://doi.org/10.1021/acsmedchemlett.5c00724.s001",
+        "sim": 0.455
+      }
+    ]
+  },
+  {
+    "query_title": "Leakage and the reproducibility crisis in machine-learning-based science",
+    "thread": "methodology",
+    "expect_author": "Kapoor",
+    "expect_year": 2023,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+      "doi": "10.1016/j.patter.2023.100804",
+      "year": 2023,
+      "container": "Patterns",
+      "type": "journal-article",
+      "authors": [
+        "Kapoor",
+        "Narayanan"
+      ],
+      "url": "https://doi.org/10.1016/j.patter.2023.100804",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+        "doi": "10.1016/j.patter.2023.100804",
+        "year": 2023,
+        "container": "Patterns",
+        "type": "journal-article",
+        "authors": [
+          "Kapoor",
+          "Narayanan"
+        ],
+        "url": "https://doi.org/10.1016/j.patter.2023.100804",
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Could machine learning fuel a reproducibility crisis in science?",
+        "doi": "10.1038/d41586-022-02035-w",
+        "year": 2022,
+        "container": "Nature",
+        "type": "journal-article",
+        "authors": [
+          "Gibney"
+        ],
+        "url": "https://doi.org/10.1038/d41586-022-02035-w",
+        "sim": 0.714
+      },
+      {
+        "source": "crossref",
+        "title": "Reducing Fraud Leakage Using Machine Learning-Based Behavioral Pattern Analysis",
+        "doi": "10.63282/3050-9262.ijaidsml-v7i1p132",
+        "year": 2026,
+        "container": "International Journal of Artificial Intelligence, Data Science and Machine Learning",
+        "type": "journal-article",
+        "authors": [
+          "Ahmad"
+        ],
+        "url": "https://doi.org/10.63282/3050-9262.ijaidsml-v7i1p132",
+        "sim": 0.5
+      },
+      {
+        "source": "crossref",
+        "title": "Machine Learning Can Solve the Reproducibility Crisis by Supplanting Reductionist Statistics",
+        "doi": "10.31222/osf.io/yxba5",
+        "year": 2022,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Sadri"
+        ],
+        "url": "https://doi.org/10.31222/osf.io/yxba5",
+        "sim": 0.471
+      }
+    ]
+  },
+  {
+    "query_title": "How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection",
+    "thread": "qml-benchmarking",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection",
+      "url": "http://arxiv.org/abs/2608.18155v1",
+      "arxiv_id": "2608.18155",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Gillani",
+        "Baig",
+        "Shah",
+        "Ali",
+        "Siddiqui"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection",
+        "url": "http://arxiv.org/abs/2608.18155v1",
+        "arxiv_id": "2608.18155",
+        "doi": null,
+        "year": 2026,
+        "authors": [
+          "Gillani",
+          "Baig",
+          "Shah",
+          "Ali",
+          "Siddiqui"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "How Machine Learning is Revolutionizing Intrusion Detection",
+        "doi": "10.1007/978-1-4842-6591-8_2",
+        "year": 2020,
+        "container": "Designing a Machine Learning Intrusion Detection System",
+        "type": "book-chapter",
+        "authors": [
+          "Tsukerman"
+        ],
+        "url": "https://doi.org/10.1007/978-1-4842-6591-8_2",
+        "sim": 0.522
+      },
+      {
+        "source": "crossref",
+        "title": "Towards Quantum-Enhanced Machine Learning for Network Intrusion Detection",
+        "doi": "10.1109/nca51143.2020.9306691",
+        "year": 2020,
+        "container": "2020 IEEE 19th International Symposium on Network Computing and Applications (NCA)",
+        "type": "proceedings-article",
+        "authors": [
+          "Gouveia",
+          "Correia"
+        ],
+        "url": "https://doi.org/10.1109/nca51143.2020.9306691",
+        "sim": 0.5
+      },
+      {
+        "source": "crossref",
+        "title": "Internet of Things Network Intrusion Detection System Using Quantum and Classical Machine Learning",
+        "doi": "10.1049/qtc2.70020",
+        "year": 2025,
+        "container": "IET Quantum Communication",
+        "type": "journal-article",
+        "authors": [
+          "S. S.",
+          "M. D.",
+          "S."
+        ],
+        "url": "https://doi.org/10.1049/qtc2.70020",
+        "sim": 0.462
+      }
+    ]
+  },
+  {
+    "query_title": "Benchmarking Quantum Reinforcement Learning",
+    "thread": "qml-benchmarking",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Benchmarking Quantum Reinforcement Learning",
+      "doi": "10.5220/0013393200003890",
+      "year": 2025,
+      "container": "Proceedings of the 17th International Conference on Agents and Artificial Intelligence",
+      "type": "proceedings-article",
+      "authors": [
+        "Kruse",
+        "Coelho",
+        "Rosskopf",
+        "Wille",
+        "Lorenz"
+      ],
+      "url": "https://doi.org/10.5220/0013393200003890",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Benchmarking Quantum Reinforcement Learning",
+        "doi": "10.5220/0013393200003890",
+        "year": 2025,
+        "container": "Proceedings of the 17th International Conference on Agents and Artificial Intelligence",
+        "type": "proceedings-article",
+        "authors": [
+          "Kruse",
+          "Coelho",
+          "Rosskopf",
+          "Wille",
+          "Lorenz"
+        ],
+        "url": "https://doi.org/10.5220/0013393200003890",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Benchmarking Quantum Reinforcement Learning",
+        "url": "http://arxiv.org/abs/2501.15893v2",
+        "arxiv_id": "2501.15893",
+        "doi": null,
+        "year": 2025,
+        "authors": [
+          "Meyer",
+          "Ufrecht",
+          "Yammine",
+          "Kontes",
+          "Mutschler",
+          "Scherer"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Benchmarking Quantum Reinforcement Learning",
+        "url": "http://arxiv.org/abs/2502.04909v2",
+        "arxiv_id": "2502.04909",
+        "doi": "10.5220/0013393200003890",
+        "year": 2025,
+        "authors": [
+          "Kruse",
+          "Coelho",
+          "Rosskopf",
+          "Wille",
+          "Lorenz"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Quantum Reinforcement Learning\u2014Connecting Reinforcement Learning and Quantum Computing",
+        "doi": "10.1007/978-3-658-37616-1_4",
+        "year": 2022,
+        "container": "Reinforcement Learning with Hybrid Quantum Approximation in the NISQ Context",
+        "type": "book-chapter",
+        "authors": [
+          "Kunczik"
+        ],
+        "url": "https://doi.org/10.1007/978-3-658-37616-1_4",
+        "sim": 0.667
+      }
+    ]
+  },
+  {
+    "query_title": "A preprocessing perspective for quantum machine learning classification advantage using NISQ algorithms",
+    "thread": "qml-benchmarking",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "A preprocessing perspective for quantum machine learning classification advantage using NISQ algorithms",
+      "url": "http://arxiv.org/abs/2208.13251v2",
+      "arxiv_id": "2208.13251",
+      "doi": "10.3390/e24111656",
+      "year": 2022,
+      "authors": [
+        "Mancilla",
+        "Pere"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "A preprocessing perspective for quantum machine learning classification advantage using NISQ algorithms",
+        "url": "http://arxiv.org/abs/2208.13251v2",
+        "arxiv_id": "2208.13251",
+        "doi": "10.3390/e24111656",
+        "year": 2022,
+        "authors": [
+          "Mancilla",
+          "Pere"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "A Preprocessing Perspective for Quantum Machine Learning Classification Advantage in Finance Using NISQ Algorithms",
+        "doi": "10.3390/e24111656",
+        "year": 2022,
+        "container": "Entropy",
+        "type": "journal-article",
+        "authors": [
+          "Mancilla",
+          "Pere"
+        ],
+        "url": "https://doi.org/10.3390/e24111656",
+        "sim": 0.947
+      },
+      {
+        "source": "crossref",
+        "title": "Enhancing Spam Email Classification Using Effective Preprocessing Strategies and Optimal Machine Learning Algorithms",
+        "doi": "10.21203/rs.3.rs-3417942/v1",
+        "year": 2023,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Ghogare",
+          "Dawoodi",
+          "Patil"
+        ],
+        "url": "https://doi.org/10.21203/rs.3.rs-3417942/v1",
+        "sim": 0.5
+      },
+      {
+        "source": "crossref",
+        "title": "Enhancing Spam Email Classification Using Effective Preprocessing Strategies and Optimal Machine Learning Algorithms",
+        "doi": "10.17485/ijst/v17i15.2979",
+        "year": 2024,
+        "container": "Indian Journal Of Science And Technology",
+        "type": "journal-article",
+        "authors": [
+          "",
+          "Ghogare",
+          "Dawoodi",
+          "Patil"
+        ],
+        "url": "https://doi.org/10.17485/ijst/v17i15.2979",
+        "sim": 0.5
+      }
+    ]
+  }
+]

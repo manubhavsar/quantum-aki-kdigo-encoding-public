@@ -1,0 +1,5 @@
+h=12 QLSTM AUROC=0.680 [0.639,0.724] AUPRC=0.078 picks=[1.5, 1.0, 1.0, 0.6, 0.6] (1114s)
+h=24 QLSTM AUROC=0.651 [0.600,0.699] AUPRC=0.185 picks=[1.5, 0.6, 1.5, 1.5, 1.5] (899s)
+h=48 QLSTM AUROC=0.635 [0.589,0.683] AUPRC=0.260 picks=[1.5, 1.5, 1.5, 0.6, 1.5] (295s)
+
+saved results/logs/qlstm_results.csv

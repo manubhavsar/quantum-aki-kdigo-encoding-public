@@ -1,0 +1,112 @@
+[
+  {
+    "doi": "10.22331/q-2020-02-06-226",
+    "expect_author": "Perez-Salinas",
+    "expect_year": 2020,
+    "thread": "qml-methods",
+    "note": "data re-uploading",
+    "verified": true,
+    "record": {
+      "doi": "10.22331/q-2020-02-06-226",
+      "title": "Data re-uploading for a universal quantum classifier",
+      "year": 2020,
+      "container": "Quantum",
+      "authors": [
+        "Perez-Salinas",
+        "Cervera-Lierta",
+        "Gil-Fuster",
+        "Latorre"
+      ],
+      "volume": "4",
+      "page": "226",
+      "publisher": "Verein zur Forderung des Open Access Publizierens in den Quantenwissenschaften",
+      "type": "journal-article",
+      "url": "https://doi.org/10.22331/q-2020-02-06-226"
+    },
+    "notes": []
+  },
+  {
+    "doi": "10.1038/s41467-020-14454-2",
+    "expect_author": "Beer",
+    "expect_year": 2020,
+    "thread": "qml-methods",
+    "note": "training deep QNNs",
+    "verified": true,
+    "record": {
+      "doi": "10.1038/s41467-020-14454-2",
+      "title": "Training deep quantum neural networks",
+      "year": 2020,
+      "container": "Nature Communications",
+      "authors": [
+        "Beer",
+        "Bondarenko",
+        "Farrelly",
+        "Osborne",
+        "Salzmann",
+        "Scheiermann",
+        "Wolf"
+      ],
+      "volume": "11",
+      "page": null,
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1038/s41467-020-14454-2"
+    },
+    "notes": []
+  },
+  {
+    "doi": "10.1038/s41467-021-22539-9",
+    "expect_author": "Huang",
+    "expect_year": 2021,
+    "thread": "qml-methods",
+    "note": "power of data",
+    "verified": true,
+    "record": {
+      "doi": "10.1038/s41467-021-22539-9",
+      "title": "Power of data in quantum machine learning",
+      "year": 2021,
+      "container": "Nature Communications",
+      "authors": [
+        "Huang",
+        "Broughton",
+        "Mohseni",
+        "Babbush",
+        "Boixo",
+        "Neven",
+        "McClean"
+      ],
+      "volume": "12",
+      "page": null,
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1038/s41467-021-22539-9"
+    },
+    "notes": []
+  },
+  {
+    "doi": "10.1186/s12911-024-02537-9",
+    "expect_year": 2024,
+    "thread": "classical-aki",
+    "verified": true,
+    "record": {
+      "doi": "10.1186/s12911-024-02537-9",
+      "title": "Interpretable machine learning model for predicting acute kidney injury in critically ill patients",
+      "year": 2024,
+      "container": "BMC Medical Informatics and Decision Making",
+      "authors": [
+        "Li",
+        "Wang",
+        "Zhu",
+        "Zhao",
+        "Pan",
+        "Wang"
+      ],
+      "volume": "24",
+      "page": null,
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1186/s12911-024-02537-9"
+    },
+    "notes": []
+  }
+]

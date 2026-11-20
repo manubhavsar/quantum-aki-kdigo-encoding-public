@@ -1,0 +1,27 @@
+[
+  {
+    "doi": "10.1109/ICASSP43922.2022.9747369",
+    "expect_author": "Chen",
+    "expect_year": 2022,
+    "thread": "qml-methods",
+    "note": "QLSTM origin",
+    "verified": true,
+    "record": {
+      "doi": "10.1109/icassp43922.2022.9747369",
+      "title": "Quantum Long Short-Term Memory",
+      "year": 2022,
+      "container": "ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "authors": [
+        "Chen",
+        "Yoo",
+        "Fang"
+      ],
+      "volume": null,
+      "page": "8622-8626",
+      "publisher": "IEEE",
+      "type": "proceedings-article",
+      "url": "https://doi.org/10.1109/icassp43922.2022.9747369"
+    },
+    "notes": []
+  }
+]

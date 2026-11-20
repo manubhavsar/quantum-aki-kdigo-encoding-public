@@ -1,0 +1,28 @@
+h=24: 179 hospitals across 3122 points
+  static  VQC                AUROC=0.584 [0.527,0.639]
+  static  LogisticRegression AUROC=0.657 [0.607,0.709]
+  static  RandomForest       AUROC=0.608 [0.557,0.660]
+  static  XGBoost            AUROC=0.585 [0.535,0.636]
+  delta   VQC                AUROC=0.667 [0.617,0.717]
+  delta   LogisticRegression AUROC=0.678 [0.630,0.727]
+  delta   RandomForest       AUROC=0.661 [0.613,0.710]
+  delta   XGBoost            AUROC=0.662 [0.613,0.711]
+h=48: 173 hospitals across 2184 points
+  static  VQC                AUROC=0.582 [0.534,0.631]
+  static  LogisticRegression AUROC=0.598 [0.541,0.656]
+  static  RandomForest       AUROC=0.569 [0.512,0.623]
+  static  XGBoost            AUROC=0.570 [0.515,0.625]
+  delta   VQC                AUROC=0.628 [0.586,0.667]
+  delta   LogisticRegression AUROC=0.619 [0.572,0.663]
+  delta   RandomForest       AUROC=0.608 [0.561,0.652]
+  delta   XGBoost            AUROC=0.592 [0.544,0.640]
+
+=== delta-minus-static gain under hospital-grouped CV ===
+  h=24 VQC                +0.083
+  h=24 LogisticRegression +0.021
+  h=24 RandomForest       +0.053
+  h=24 XGBoost            +0.077
+  h=48 VQC                +0.046
+  h=48 LogisticRegression +0.021
+  h=48 RandomForest       +0.039
+  h=48 XGBoost            +0.022

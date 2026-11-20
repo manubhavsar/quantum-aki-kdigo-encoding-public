@@ -1,0 +1,6 @@
+h=12 creatinine-only  RF=0.692 XGB=0.660 MLP=0.655
+h=12 creatinine+urine RF=0.616 XGB=0.605 MLP=0.579
+h=24 creatinine-only  RF=0.677 XGB=0.659 MLP=0.642
+h=24 creatinine+urine RF=0.601 XGB=0.585 MLP=0.589
+h=48 creatinine-only  RF=0.627 XGB=0.612 MLP=0.644
+h=48 creatinine+urine RF=0.618 XGB=0.605 MLP=0.555

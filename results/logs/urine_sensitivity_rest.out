@@ -1,0 +1,6 @@
+h=12 creatinine-only  TabT=0.652 QSVM=0.655
+h=12 creatinine+urine TabT=0.589 QSVM=0.596
+h=24 creatinine-only  TabT=0.664 QSVM=0.650
+h=24 creatinine+urine TabT=0.582 QSVM=0.599
+h=48 creatinine-only  TabT=0.645 QSVM=0.643
+h=48 creatinine+urine TabT=0.549 QSVM=0.563

@@ -1,0 +1,10 @@
+,value
+machine,arm64
+processor,arm
+system,macOS-15.1-arm64-arm-64bit-Mach-O
+cpu_count,12
+python,3.13.12
+torch,2.13.0
+pennylane,0.45.1
+n_train,2497
+n_test,625

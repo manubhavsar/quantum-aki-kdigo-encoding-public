@@ -1,0 +1,3 @@
+convention,auroc,prevalence,n
+death censored (primary),0.6986253402052345,0.07975656630365151,3122
+death as non-event (sensitivity),0.697738140490632,0.07867298578199051,3165

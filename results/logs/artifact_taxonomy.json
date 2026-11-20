@@ -1,0 +1,61 @@
+{
+  "absolute": [
+    {
+      "choice": "Label leakage (post-onset windows retained)",
+      "magnitude": 0.19295861655680413,
+      "detail": "VQC 0.629$\\to$0.822, LR 0.651$\\to$0.821",
+      "source": "leakage_gap.csv"
+    }
+  ],
+  "gap": [
+    {
+      "choice": "Unmatched classical architecture",
+      "magnitude": 0.1085520442778074,
+      "detail": "+0.120 vs generic LSTM, +0.012 vs width-matched",
+      "source": "gate_ablation.csv"
+    },
+    {
+      "choice": "Unreported encoding bandwidth",
+      "magnitude": 0.10085731020147426,
+      "detail": "quantum arm 0.577$\\to$0.678; absent classically",
+      "source": "ablations.csv"
+    },
+    {
+      "choice": "Cohort scale (demo-scale evaluation only)",
+      "magnitude": 0.033819510551779196,
+      "detail": "G -0.041 at full data, -0.007 at one tenth",
+      "source": "learning_curve_stats.csv"
+    },
+    {
+      "choice": "Horizon selection (best of three)",
+      "magnitude": 0.0275368448517107,
+      "detail": "best-horizon G exceeds the mean by +0.028",
+      "source": "horizon_artifact.csv"
+    },
+    {
+      "choice": "Crediting the model for its features",
+      "magnitude": 0.025302043537882804,
+      "detail": "raw gain +0.130 vs interaction +0.104",
+      "source": "interaction_tests.csv"
+    },
+    {
+      "choice": "Label leakage (post-onset windows retained)",
+      "magnitude": 0.0228852065161197,
+      "detail": "G -0.021$\\to$+0.001; both arms gain",
+      "source": "leakage_gap.csv"
+    },
+    {
+      "choice": "Untuned classical baseline",
+      "magnitude": 0.0185769181843977,
+      "detail": "up to +0.019 depending on the baseline",
+      "source": "tuning_asymmetry.csv"
+    },
+    {
+      "choice": "Seed selection (best of eight)",
+      "magnitude": 0.015185000356455387,
+      "detail": "best seed -0.012 against mean -0.027",
+      "source": "seed_sensitivity.csv"
+    }
+  ],
+  "largest_controlled_effect": 0.0647892503149203
+}

@@ -1,0 +1,2 @@
+choice,magnitude,detail,source
+Label leakage (post-onset windows retained),0.19295861655680413,"VQC 0.629$\to$0.822, LR 0.651$\to$0.821",leakage_gap.csv

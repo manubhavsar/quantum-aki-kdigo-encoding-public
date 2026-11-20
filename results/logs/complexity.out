@@ -1,0 +1,14 @@
+Logistic Regression      classical params=        9 fit=    0.00s predict=  0.000s 
+XGBoost                  classical params=200 trees fit=    0.02s predict=  0.001s 
+MLP control              classical params=       61 fit=    1.48s predict=  0.000s 
+LSTM                     classical params=     5793 fit=    3.92s predict=  0.001s 
+Transformer              classical params=     3969 fit=    6.80s predict=  0.001s 
+GRU                      classical params=     4641 fit=    3.77s predict=  0.001s 
+Classical-gate LSTM      classical params=      757 fit=    1.13s predict=  0.002s 
+Minimal-QLSTM (6 qubits) quantum   params=      619 fit=   18.93s predict=  0.032s 
+VQC (8 qubits, 2 layers) quantum   params=       49 fit=   23.83s predict=  0.039s 
+VQC (8 qubits, 3 layers) quantum   params=       73 fit=   11.30s predict=  0.055s 
+Kernel SVM (8 qubits)    quantum   params=2497 support rows fit=   78.66s predict= 38.350s fit = one n x n kernel matrix
+TRE (6 qubits)           quantum   params=      103 fit=   22.69s predict=  0.025s 
+
+ {'machine': 'arm64', 'processor': 'arm', 'system': 'macOS-15.1-arm64-arm-64bit-Mach-O', 'cpu_count': 12, 'python': '3.13.12', 'torch': '2.13.0', 'pennylane': '0.45.1', 'n_train': 2497, 'n_test': 625}

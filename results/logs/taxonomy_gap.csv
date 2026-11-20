@@ -1,0 +1,9 @@
+choice,magnitude,detail,source
+Unmatched classical architecture,0.1085520442778074,"+0.120 vs generic LSTM, +0.012 vs width-matched",gate_ablation.csv
+Unreported encoding bandwidth,0.10085731020147426,quantum arm 0.577$\to$0.678; absent classically,ablations.csv
+Cohort scale (demo-scale evaluation only),0.033819510551779196,"G -0.041 at full data, -0.007 at one tenth",learning_curve_stats.csv
+Horizon selection (best of three),0.0275368448517107,best-horizon G exceeds the mean by +0.028,horizon_artifact.csv
+Crediting the model for its features,0.025302043537882804,raw gain +0.130 vs interaction +0.104,interaction_tests.csv
+Label leakage (post-onset windows retained),0.0228852065161197,G -0.021$\to$+0.001; both arms gain,leakage_gap.csv
+Untuned classical baseline,0.0185769181843977,up to +0.019 depending on the baseline,tuning_asymmetry.csv
+Seed selection (best of eight),0.015185000356455387,best seed -0.012 against mean -0.027,seed_sensitivity.csv

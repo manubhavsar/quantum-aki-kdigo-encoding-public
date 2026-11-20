@@ -1,0 +1,613 @@
+[
+  {
+    "query_title": "The Inductive Bias of Quantum Kernels",
+    "thread": "qml-inductive-bias",
+    "expect_author": "Kubler",
+    "expect_year": 2021,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "The Inductive Bias of Quantum Kernels",
+      "url": "http://arxiv.org/abs/2106.03747v2",
+      "arxiv_id": "2106.03747",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "K\u00fcbler",
+        "Buchholz",
+        "Sch\u00f6lkopf"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "The Inductive Bias of Quantum Kernels",
+        "url": "http://arxiv.org/abs/2106.03747v2",
+        "arxiv_id": "2106.03747",
+        "doi": null,
+        "year": 2021,
+        "authors": [
+          "K\u00fcbler",
+          "Buchholz",
+          "Sch\u00f6lkopf"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Inductive Bias",
+        "doi": "10.7551/mitpress/3731.003.0010",
+        "year": 1995,
+        "container": "Inductive Logic Programming",
+        "type": "book-chapter",
+        "authors": [],
+        "url": "https://doi.org/10.7551/mitpress/3731.003.0010",
+        "sim": 0.667
+      },
+      {
+        "source": "crossref",
+        "title": "Inductive machine learning with bias",
+        "doi": "10.5353/th_b3121242",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "Lam"
+        ],
+        "url": "https://doi.org/10.5353/th_b3121242",
+        "sim": 0.5
+      },
+      {
+        "source": "crossref",
+        "title": "Structured Attention Kernels: Geometry of Objects, Directional Relations and Inductive Bias",
+        "doi": "10.2139/ssrn.6389598",
+        "year": 2026,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Sudjianto"
+        ],
+        "url": "https://doi.org/10.2139/ssrn.6389598",
+        "sim": 0.462
+      }
+    ]
+  },
+  {
+    "query_title": "Contextuality and inductive bias in quantum machine learning",
+    "thread": "qml-inductive-bias",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "Contextuality and inductive bias in quantum machine learning",
+      "url": "http://arxiv.org/abs/2302.01365v3",
+      "arxiv_id": "2302.01365",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Bowles",
+        "Wright",
+        "Farkas",
+        "Killoran",
+        "Schuld"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "Contextuality and inductive bias in quantum machine learning",
+        "url": "http://arxiv.org/abs/2302.01365v3",
+        "arxiv_id": "2302.01365",
+        "doi": null,
+        "year": 2023,
+        "authors": [
+          "Bowles",
+          "Wright",
+          "Farkas",
+          "Killoran",
+          "Schuld"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Inductive machine learning with bias",
+        "doi": "10.5353/th_b3121242",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "Lam"
+        ],
+        "url": "https://doi.org/10.5353/th_b3121242",
+        "sim": 0.8
+      },
+      {
+        "source": "crossref",
+        "title": "Inductive Bias",
+        "doi": "10.7551/mitpress/3731.003.0010",
+        "year": 1995,
+        "container": "Inductive Logic Programming",
+        "type": "book-chapter",
+        "authors": [],
+        "url": "https://doi.org/10.7551/mitpress/3731.003.0010",
+        "sim": 0.5
+      },
+      {
+        "source": "crossref",
+        "title": "Inductive Bias",
+        "doi": "10.1007/978-0-387-30164-8_390",
+        "year": 2011,
+        "container": "Encyclopedia of Machine Learning",
+        "type": "book-chapter",
+        "authors": [],
+        "url": "https://doi.org/10.1007/978-0-387-30164-8_390",
+        "sim": 0.5
+      }
+    ]
+  },
+  {
+    "query_title": "An inductive bias from quantum mechanics: learning order effects with non-commuting measurements",
+    "thread": "qml-inductive-bias",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "An inductive bias from quantum mechanics: learning order effects with non-commuting measurements",
+      "doi": "10.1007/s42484-024-00200-0",
+      "year": 2024,
+      "container": "Quantum Machine Intelligence",
+      "type": "journal-article",
+      "authors": [
+        "Gili",
+        "Alonso",
+        "Schuld"
+      ],
+      "url": "https://doi.org/10.1007/s42484-024-00200-0",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "An inductive bias from quantum mechanics: learning order effects with non-commuting measurements",
+        "doi": "10.1007/s42484-024-00200-0",
+        "year": 2024,
+        "container": "Quantum Machine Intelligence",
+        "type": "journal-article",
+        "authors": [
+          "Gili",
+          "Alonso",
+          "Schuld"
+        ],
+        "url": "https://doi.org/10.1007/s42484-024-00200-0",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "An inductive bias from quantum mechanics: learning order effects with non-commuting measurements",
+        "url": "http://arxiv.org/abs/2312.03862v1",
+        "arxiv_id": "2312.03862",
+        "doi": null,
+        "year": 2023,
+        "authors": [
+          "Gili",
+          "Alonso",
+          "Schuld"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Visual learning from imperfect data via inductive bias modelling",
+        "doi": "10.14264/bd5d3e6",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "",
+          "Luo"
+        ],
+        "url": "https://doi.org/10.14264/bd5d3e6",
+        "sim": 0.4
+      },
+      {
+        "source": "crossref",
+        "title": "Inductive Bias",
+        "doi": "10.7551/mitpress/3731.003.0010",
+        "year": 1995,
+        "container": "Inductive Logic Programming",
+        "type": "book-chapter",
+        "authors": [],
+        "url": "https://doi.org/10.7551/mitpress/3731.003.0010",
+        "sim": 0.308
+      }
+    ]
+  },
+  {
+    "query_title": "Understanding quantum machine learning also requires rethinking generalization",
+    "thread": "qml-inductive-bias",
+    "expect_author": null,
+    "expect_year": 2024,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Understanding quantum machine learning also requires rethinking generalization",
+      "doi": "10.1038/s41467-024-45882-z",
+      "year": 2024,
+      "container": "Nature Communications",
+      "type": "journal-article",
+      "authors": [
+        "Gil-Fuster",
+        "Eisert",
+        "Bravo-Prieto"
+      ],
+      "url": "https://doi.org/10.1038/s41467-024-45882-z",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Understanding quantum machine learning also requires rethinking generalization",
+        "doi": "10.1038/s41467-024-45882-z",
+        "year": 2024,
+        "container": "Nature Communications",
+        "type": "journal-article",
+        "authors": [
+          "Gil-Fuster",
+          "Eisert",
+          "Bravo-Prieto"
+        ],
+        "url": "https://doi.org/10.1038/s41467-024-45882-z",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Understanding quantum machine learning also requires rethinking generalization",
+        "url": "http://arxiv.org/abs/2306.13461v2",
+        "arxiv_id": "2306.13461",
+        "doi": "10.1038/s41467-024-45882-z",
+        "year": 2023,
+        "authors": [
+          "Gil-Fuster",
+          "Eisert",
+          "Bravo-Prieto"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Understanding deep learning (still) requires rethinking generalization",
+        "doi": "10.1145/3446776",
+        "year": 2021,
+        "container": "Communications of the ACM",
+        "type": "journal-article",
+        "authors": [
+          "Zhang",
+          "Bengio",
+          "Hardt",
+          "Recht",
+          "Vinyals"
+        ],
+        "url": "https://doi.org/10.1145/3446776",
+        "sim": 0.667
+      },
+      {
+        "source": "crossref",
+        "title": "Generalization in Quantum Machine Learning: A Quantum Information Standpoint",
+        "doi": "10.1103/prxquantum.2.040321",
+        "year": 2021,
+        "container": "PRX Quantum",
+        "type": "journal-article",
+        "authors": [
+          "Banchi",
+          "Pereira",
+          "Pirandola"
+        ],
+        "url": "https://doi.org/10.1103/prxquantum.2.040321",
+        "sim": 0.571
+      }
+    ]
+  },
+  {
+    "query_title": "Do Quantum Neural Networks have Simplicity Bias?",
+    "thread": "qml-inductive-bias",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "arxiv",
+      "title": "Do Quantum Neural Networks have Simplicity Bias?",
+      "url": "http://arxiv.org/abs/2407.03266v1",
+      "arxiv_id": "2407.03266",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Pointing"
+      ],
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "arxiv",
+        "title": "Do Quantum Neural Networks have Simplicity Bias?",
+        "url": "http://arxiv.org/abs/2407.03266v1",
+        "arxiv_id": "2407.03266",
+        "doi": null,
+        "year": 2024,
+        "authors": [
+          "Pointing"
+        ],
+        "sim": 1.0
+      }
+    ]
+  },
+  {
+    "query_title": "Biology and medicine in the landscape of quantum advantages",
+    "thread": "qml-health",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Biology and medicine in the landscape of quantum advantages",
+      "doi": "10.1098/rsif.2022.0541",
+      "year": 2022,
+      "container": "Journal of The Royal Society Interface",
+      "type": "journal-article",
+      "authors": [
+        "Cordier",
+        "Sawaya",
+        "Guerreschi",
+        "McWeeney"
+      ],
+      "url": "https://doi.org/10.1098/rsif.2022.0541",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Biology and medicine in the landscape of quantum advantages",
+        "doi": "10.1098/rsif.2022.0541",
+        "year": 2022,
+        "container": "Journal of The Royal Society Interface",
+        "type": "journal-article",
+        "authors": [
+          "Cordier",
+          "Sawaya",
+          "Guerreschi",
+          "McWeeney"
+        ],
+        "url": "https://doi.org/10.1098/rsif.2022.0541",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Biology and medicine in the landscape of quantum advantages",
+        "url": "http://arxiv.org/abs/2112.00760v2",
+        "arxiv_id": "2112.00760",
+        "doi": "10.1098/rsif.2022.0541",
+        "year": 2021,
+        "authors": [
+          "Cordier",
+          "Sawaya",
+          "Guerreschi",
+          "McWeeney"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Quantum Physics, Quantum Biology, Quantum Medicine?",
+        "doi": "10.20944/preprints202005.0149.v1",
+        "year": 2020,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Bullon"
+        ],
+        "url": "https://doi.org/10.20944/preprints202005.0149.v1",
+        "sim": 0.667
+      },
+      {
+        "source": "crossref",
+        "title": "Exploring quantum nature of spins towards quantum advantages",
+        "doi": "10.14711/thesis-991013340444603412",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "Shen"
+        ],
+        "url": "https://doi.org/10.14711/thesis-991013340444603412",
+        "sim": 0.364
+      }
+    ]
+  },
+  {
+    "query_title": "Quantum utility - definition and assessment of a practical quantum advantage",
+    "thread": "qml-methods",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Quantum utility \u2013 definition and assessment of a practical quantum advantage",
+      "doi": "10.1109/qsw59989.2023.00028",
+      "year": 2023,
+      "container": "2023 IEEE International Conference on Quantum Software (QSW)",
+      "type": "proceedings-article",
+      "authors": [
+        "Herrmann",
+        "Arya",
+        "Doherty",
+        "Mingare",
+        "Pillay",
+        "Preis",
+        "Prestel"
+      ],
+      "url": "https://doi.org/10.1109/qsw59989.2023.00028",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Quantum utility \u2013 definition and assessment of a practical quantum advantage",
+        "doi": "10.1109/qsw59989.2023.00028",
+        "year": 2023,
+        "container": "2023 IEEE International Conference on Quantum Software (QSW)",
+        "type": "proceedings-article",
+        "authors": [
+          "Herrmann",
+          "Arya",
+          "Doherty",
+          "Mingare",
+          "Pillay",
+          "Preis",
+          "Prestel"
+        ],
+        "url": "https://doi.org/10.1109/qsw59989.2023.00028",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Quantum utility -- definition and assessment of a practical quantum advantage",
+        "url": "http://arxiv.org/abs/2303.02138v2",
+        "arxiv_id": "2303.02138",
+        "doi": "10.1109/QSW59989.2023.00028",
+        "year": 2023,
+        "authors": [
+          "Herrmann",
+          "Arya",
+          "Doherty",
+          "Mingare",
+          "Pillay",
+          "Preis",
+          "Prestel"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Quantitative Quantum Communication: Practical Realizations of Exponential Quantum Advantage",
+        "doi": "10.1364/ls.2014.lw2h.1",
+        "year": 2014,
+        "container": "Frontiers in Optics 2014",
+        "type": "proceedings-article",
+        "authors": [
+          "Arrazola",
+          "Lutkenhaus"
+        ],
+        "url": "https://doi.org/10.1364/ls.2014.lw2h.1",
+        "sim": 0.462
+      },
+      {
+        "source": "crossref",
+        "title": "Quantum Fisher Information Beyond Theory: Towards Practical Quantum Advantage in Sensing",
+        "doi": "10.20944/preprints202509.2554.v1",
+        "year": 2025,
+        "container": "",
+        "type": "posted-content",
+        "authors": [
+          "Erol"
+        ],
+        "url": "https://doi.org/10.20944/preprints202509.2554.v1",
+        "sim": 0.4
+      }
+    ]
+  },
+  {
+    "query_title": "Assessing the advantages and limitations of quantum neural networks in regression tasks",
+    "thread": "qml-methods",
+    "expect_author": null,
+    "expect_year": null,
+    "verified": true,
+    "accepted": {
+      "source": "crossref",
+      "title": "Assessing the advantages and limitations of quantum neural networks in regression tasks",
+      "doi": "10.1007/s42484-026-00370-z",
+      "year": 2026,
+      "container": "Quantum Machine Intelligence",
+      "type": "journal-article",
+      "authors": [
+        "de Lima",
+        "de S. Farias",
+        "Ricardo",
+        "Boas"
+      ],
+      "url": "https://doi.org/10.1007/s42484-026-00370-z",
+      "sim": 1.0
+    },
+    "near_misses": [],
+    "top_candidates": [
+      {
+        "source": "crossref",
+        "title": "Assessing the advantages and limitations of quantum neural networks in regression tasks",
+        "doi": "10.1007/s42484-026-00370-z",
+        "year": 2026,
+        "container": "Quantum Machine Intelligence",
+        "type": "journal-article",
+        "authors": [
+          "de Lima",
+          "de S. Farias",
+          "Ricardo",
+          "Boas"
+        ],
+        "url": "https://doi.org/10.1007/s42484-026-00370-z",
+        "sim": 1.0
+      },
+      {
+        "source": "arxiv",
+        "title": "Assessing the Advantages and Limitations of Quantum Neural Networks in Regression Tasks",
+        "url": "http://arxiv.org/abs/2509.00854v1",
+        "arxiv_id": "2509.00854",
+        "doi": null,
+        "year": 2025,
+        "authors": [
+          "Limaa",
+          "Farias",
+          "Ricardo",
+          "Boas"
+        ],
+        "sim": 1.0
+      },
+      {
+        "source": "crossref",
+        "title": "Neural networks for real world tasks : limitations and solutions",
+        "doi": "10.14264/365821",
+        "year": null,
+        "container": "",
+        "type": "dissertation",
+        "authors": [
+          "",
+          "Lawrence"
+        ],
+        "url": "https://doi.org/10.14264/365821",
+        "sim": 0.533
+      },
+      {
+        "source": "crossref",
+        "title": "Improving the performance of neural networks in regression tasks using drawering",
+        "doi": "10.1109/ijcnn.2017.7966164",
+        "year": 2017,
+        "container": "2017 International Joint Conference on Neural Networks (IJCNN)",
+        "type": "proceedings-article",
+        "authors": [
+          "Zolna"
+        ],
+        "url": "https://doi.org/10.1109/ijcnn.2017.7966164",
+        "sim": 0.533
+      }
+    ]
+  }
+]

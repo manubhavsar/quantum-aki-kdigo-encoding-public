@@ -1,0 +1,8 @@
+artifact,magnitude,source,detail
+Label leakage (prevalent windows kept),0.19920605743108122,leakage_probe.csv,0.681 to 0.880 AUROC
+Architecture confounding (unmatched baseline),0.1085520442778074,qlstm_comparison.csv + gate_ablation.csv,+0.120 unmatched vs +0.012 matched
+Unreported encoding bandwidth,0.10085731020147426,ablations.csv,0.577 to 0.678 across bandwidth
+Cohort scale (demo-scale only),0.033819510551779196,learning_curve_stats.csv,gap -0.041 at full data vs -0.007 at one tenth
+Feature confounding (no interaction test),0.025302043537882804,interaction_tests.csv,raw gain +0.130 vs interaction +0.104
+Tuning asymmetry (untuned classical baseline),0.0185769181843977,tuning_asymmetry.csv,up to +0.019 depending on baseline
+Seed selection (best-of-N reporting),0.015185000356455387,seed_sensitivity.csv,best seed -0.012 vs mean -0.027 over 8 seeds

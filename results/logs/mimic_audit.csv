@@ -1,0 +1,3 @@
+cohort,labelling,auroc,prevalence,n,frac_after_onset
+MIMIC-IV demo,incident only,0.6207070707070708,0.140625,256,0.0
+MIMIC-IV demo,post-onset windows retained,0.7810924369747898,0.519650655021834,458,0.4410480349344978

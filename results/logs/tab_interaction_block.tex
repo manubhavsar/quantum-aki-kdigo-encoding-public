@@ -1,0 +1,20 @@
+\begin{table}[!htbp]
+\centering
+\scriptsize
+\renewcommand{\arraystretch}{1.00}
+\setlength{\tabcolsep}{3.2pt}
+\caption{The encoding-by-model interaction $I$ by horizon: the AUROC gain the quantum model takes from delta encoding minus the classical model's gain from the same features, with a 95\% patient-level bootstrap interval. $I$ records how differently two families respond to the encoding; it does not by itself attribute an effect to the circuit (Section~\ref{sec:res-controls}). $^{*}$ $p<0.05$; $^{\dagger}$ survives Bonferroni correction ($p<\BonfThresh{}$).}
+\label{tab:interaction}
+\begin{tabular}{llccc}
+\hline
+Quantum & vs.\ classical & 12\,h & 24\,h & 48\,h \\
+\hline
+VQC & Logistic Regression & +0.066 [-0.00,+0.14] & +0.104 [+0.05,+0.16]$^{\dagger}$ & +0.040 [-0.02,+0.10] \\
+VQC & XGBoost & +0.073 [-0.00,+0.15] & +0.073 [+0.00,+0.15] & +0.030 [-0.05,+0.11] \\
+VQC & Random Forest & +0.030 [-0.05,+0.11] & +0.049 [-0.02,+0.12] & +0.009 [-0.07,+0.08] \\
+Quantum-kernel SVM & Logistic Regression & +0.038 [-0.02,+0.10] & +0.028 [-0.02,+0.08] & +0.008 [-0.04,+0.05] \\
+Quantum-kernel SVM & XGBoost & +0.046 [-0.03,+0.12] & -0.003 [-0.07,+0.07] & -0.002 [-0.07,+0.06] \\
+Quantum-kernel SVM & Random Forest & +0.002 [-0.06,+0.06] & -0.027 [-0.09,+0.04] & -0.023 [-0.10,+0.05] \\
+\hline
+\end{tabular}
+\end{table}

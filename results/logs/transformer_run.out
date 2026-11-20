@@ -1,0 +1,5 @@
+h=12 Transformer AUROC=0.622 [0.573,0.675] AUPRC=0.075 params=3969
+h=24 Transformer AUROC=0.629 [0.579,0.679] AUPRC=0.190 params=3969
+h=48 Transformer AUROC=0.620 [0.572,0.667] AUPRC=0.284 params=3969
+
+saved results/logs/transformer_baseline.csv

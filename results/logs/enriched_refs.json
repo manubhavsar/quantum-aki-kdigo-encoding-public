@@ -1,0 +1,1157 @@
+[
+  {
+    "authors": [
+      "Parthasarathi, P.",
+      "Alshahrani, Haya Mesfer",
+      "Venkatachalam, K.",
+      "Cho, Jaehyuk"
+    ],
+    "title": "Variational quantum classifier-based early identification and classification of chronic kidney disease using sparse autoencoder and LASSO shrinkage",
+    "year": 2025,
+    "container": "PeerJ Computer Science",
+    "volume": "11",
+    "page": "e2789",
+    "doi": "10.7717/peerj-cs.2789",
+    "type": "journal-article",
+    "thread": "qml-kidney"
+  },
+  {
+    "authors": [
+      "Hussain, Sajid",
+      "Songhua, Xu",
+      "Aslam, Muhammad",
+      "Waqas, Muhammad",
+      "Hussain, Shahid"
+    ],
+    "title": "Quantum Deep Learning for Automatic Chronic Kidney Disease Identification and Classification with CT images",
+    "year": 2024,
+    "container": "",
+    "volume": null,
+    "page": null,
+    "doi": "10.21203/rs.3.rs-4743771/v1",
+    "type": "posted-content",
+    "thread": "qml-kidney"
+  },
+  {
+    "authors": [
+      "Kashif, Muhammad",
+      "Siraj, Hanzalah Mohamed",
+      "Innan, Nouhaila",
+      "Marchisio, Alberto",
+      "Shafique, Muhammad"
+    ],
+    "title": "Design Space Exploration of Hybrid Quantum Neural Networks for Chronic Kidney Disease",
+    "year": 2026,
+    "arxiv_id": "2604.13608",
+    "container": null,
+    "doi": null,
+    "thread": "qml-kidney"
+  },
+  {
+    "authors": [
+      "Gupta, Riddhi S.",
+      "Wood, Carolyn E.",
+      "Engstrom, Teyl",
+      "Pole, Jason D.",
+      "Shrapnel, Sally"
+    ],
+    "title": "A systematic review of quantum machine learning for digital health",
+    "year": 2025,
+    "container": "npj Digital Medicine",
+    "volume": "8",
+    "page": null,
+    "doi": "10.1038/s41746-025-01597-z",
+    "type": "journal-article",
+    "thread": "qml-health-survey"
+  },
+  {
+    "authors": [
+      "Setiawan, Agustinus Eko",
+      "Rustad, Supriadi",
+      "Syukur, Abdul",
+      "Soeleman, Moch Arief",
+      "Shidik, Guruh Fajar",
+      "Mahargya, Ifran Lindu",
+      "Akrom, Muhamad",
+      "Setiawan, Andreas Wilson"
+    ],
+    "title": "A systematic literature review of quantum machine learning for medical: trends, datasets, topics, and methods",
+    "year": 2026,
+    "container": "International Journal of Cognitive Computing in Engineering",
+    "volume": "7",
+    "page": "609-630",
+    "doi": "10.1016/j.ijcce.2026.05.002",
+    "type": "journal-article",
+    "thread": "qml-health-survey"
+  },
+  {
+    "authors": [
+      "Moradi, S.",
+      "Brandner, C.",
+      "Spielvogel, C.",
+      "Krajnc, D.",
+      "Hillmich, S.",
+      "Wille, R.",
+      "Drexler, W.",
+      "Papp, L."
+    ],
+    "title": "Clinical data classification with noisy intermediate scale quantum computers",
+    "year": 2022,
+    "container": "Scientific Reports",
+    "volume": "12",
+    "page": null,
+    "doi": "10.1038/s41598-022-05971-9",
+    "type": "journal-article",
+    "thread": "qml-health-survey"
+  },
+  {
+    "authors": [
+      "Benedetti, Marcello",
+      "Lloyd, Erika",
+      "Sack, Stefan",
+      "Fiorentini, Mattia"
+    ],
+    "title": "Parameterized quantum circuits as machine learning models",
+    "year": 2019,
+    "container": "Quantum Science and Technology",
+    "volume": "4",
+    "page": "043001",
+    "doi": "10.1088/2058-9565/ab4eb5",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Havlicek, Vojtech",
+      "Corcoles, Antonio D.",
+      "Temme, Kristan",
+      "Harrow, Aram W.",
+      "Kandala, Abhinav",
+      "Chow, Jerry M.",
+      "Gambetta, Jay M."
+    ],
+    "title": "Supervised learning with quantum-enhanced feature spaces",
+    "year": 2019,
+    "container": "Nature",
+    "volume": "567",
+    "page": "209-212",
+    "doi": "10.1038/s41586-019-0980-2",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Schuld, Maria",
+      "Bocharov, Alex",
+      "Svore, Krysta M.",
+      "Wiebe, Nathan"
+    ],
+    "title": "Circuit-centric quantum classifiers",
+    "year": 2020,
+    "container": "Physical Review A",
+    "volume": "101",
+    "page": null,
+    "doi": "10.1103/physreva.101.032308",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Bergholm, Ville",
+      "Izaac, Josh",
+      "Schuld, Maria",
+      "Gogolin, Christian",
+      "Ahmed, Shahnawaz",
+      "Ajith, Vishnu",
+      "Alam, M. Sohaib",
+      "Alonso-Linaje, Guillermo",
+      "AkashNarayanan, B.",
+      "Asadi, Ali",
+      "Arrazola, Juan Miguel",
+      "Azad, Utkarsh",
+      "Banning, Sam",
+      "Blank, Carsten",
+      "Bromley, Thomas R",
+      "Cordier, Benjamin A.",
+      "Ceroni, Jack",
+      "Delgado, Alain",
+      "Matteo, Olivia Di",
+      "Dusko, Amintor",
+      "Garg, Tanya",
+      "Guala, Diego",
+      "Hayes, Anthony",
+      "Hill, Ryan",
+      "Ijaz, Aroosa",
+      "Isacsson, Theodor",
+      "Ittah, David",
+      "Jahangiri, Soran",
+      "Jain, Prateek",
+      "Jiang, Edward",
+      "Khandelwal, Ankit",
+      "Kottmann, Korbinian",
+      "Lang, Robert A.",
+      "Lee, Christina",
+      "Loke, Thomas",
+      "Lowe, Angus",
+      "McKiernan, Keri",
+      "Meyer, Johannes Jakob",
+      "Montanez-Barrera, J. A.",
+      "Moyard, Romain",
+      "Niu, Zeyue",
+      "O'Riordan, Lee James",
+      "Oud, Steven",
+      "Panigrahi, Ashish",
+      "Park, Chae-Yeun",
+      "Polatajko, Daniel",
+      "Quesada, Nicolas",
+      "Roberts, Chase",
+      "Sa, Nahum",
+      "Schoch, Isidor",
+      "Shi, Borun",
+      "Shu, Shuli",
+      "Sim, Sukin",
+      "Singh, Arshpreet",
+      "Strandberg, Ingrid",
+      "Soni, Jay",
+      "Szava, Antal",
+      "Thabet, Slimane",
+      "Vargas-Hernandez, Rodrigo A.",
+      "Vincent, Trevor",
+      "Vitucci, Nicola",
+      "Weber, Maurice",
+      "Wierichs, David",
+      "Wiersema, Roeland",
+      "Willmann, Moritz",
+      "Wong, Vincent",
+      "Zhang, Shaoming",
+      "Killoran, Nathan"
+    ],
+    "title": "PennyLane: Automatic differentiation of hybrid quantum-classical computations",
+    "year": 2018,
+    "arxiv_id": "1811.04968",
+    "container": null,
+    "doi": null,
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Schuld, Maria",
+      "Sweke, Ryan",
+      "Meyer, Johannes Jakob"
+    ],
+    "title": "Effect of data encoding on the expressive power of variational quantum-machine-learning models",
+    "year": 2021,
+    "container": "Physical Review A",
+    "volume": "103",
+    "page": null,
+    "doi": "10.1103/physreva.103.032430",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Huang, Hsin-Yuan",
+      "Broughton, Michael",
+      "Mohseni, Masoud",
+      "Babbush, Ryan",
+      "Boixo, Sergio",
+      "Neven, Hartmut",
+      "McClean, Jarrod R."
+    ],
+    "title": "Power of data in quantum machine learning",
+    "year": 2021,
+    "container": "Nature Communications",
+    "volume": "12",
+    "page": null,
+    "doi": "10.1038/s41467-021-22539-9",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "McClean, Jarrod R.",
+      "Boixo, Sergio",
+      "Smelyanskiy, Vadim N.",
+      "Babbush, Ryan",
+      "Neven, Hartmut"
+    ],
+    "title": "Barren plateaus in quantum neural network training landscapes",
+    "year": 2018,
+    "container": "Nature Communications",
+    "volume": "9",
+    "page": null,
+    "doi": "10.1038/s41467-018-07090-4",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Lloyd, Seth",
+      "Schuld, Maria",
+      "Ijaz, Aroosa",
+      "Izaac, Josh",
+      "Killoran, Nathan"
+    ],
+    "title": "Quantum embeddings for machine learning",
+    "year": 2020,
+    "arxiv_id": "2001.03622",
+    "container": null,
+    "doi": null,
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Schuld, Maria",
+      "Bergholm, Ville",
+      "Gogolin, Christian",
+      "Izaac, Josh",
+      "Killoran, Nathan"
+    ],
+    "title": "Evaluating analytic gradients on quantum hardware",
+    "year": 2019,
+    "container": "Physical Review A",
+    "volume": "99",
+    "page": null,
+    "doi": "10.1103/physreva.99.032331",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Lyu, Xinrui",
+      "Fan, Bowen",
+      "Huser, Matthias",
+      "Hartout, Philip",
+      "Gumbsch, Thomas",
+      "Faltys, Martin",
+      "Merz, Tobias M",
+      "Ratsch, Gunnar",
+      "Borgwardt, Karsten"
+    ],
+    "title": "An empirical study on KDIGO-defined acute kidney injury prediction in the intensive care unit",
+    "year": 2024,
+    "container": "Bioinformatics",
+    "volume": "40",
+    "page": "i247-i256",
+    "doi": "10.1093/bioinformatics/btae212",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "authors": [
+      "Alfieri, Francesca",
+      "Ancona, Andrea",
+      "Tripepi, Giovanni",
+      "Rubeis, Andrea",
+      "Arjoldi, Niccolo",
+      "Finazzi, Stefano",
+      "Cauda, Valentina",
+      "Fagugli, Riccardo Maria"
+    ],
+    "title": "Continuous and early prediction of future moderate and severe Acute Kidney Injury in critically ill patients: Development and multi-centric, multi-national external validation of a machine-learning model",
+    "year": 2023,
+    "container": "PLOS ONE",
+    "volume": "18",
+    "page": "e0287398",
+    "doi": "10.1371/journal.pone.0287398",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "authors": [
+      "Tomasev, Nenad",
+      "Glorot, Xavier",
+      "Rae, Jack W.",
+      "Zielinski, Michal",
+      "Askham, Harry",
+      "Saraiva, Andre",
+      "Mottram, Anne",
+      "Meyer, Clemens",
+      "Ravuri, Suman",
+      "Protsyuk, Ivan",
+      "Connell, Alistair",
+      "Hughes, Cian O.",
+      "Karthikesalingam, Alan",
+      "Cornebise, Julien",
+      "Montgomery, Hugh",
+      "Rees, Geraint",
+      "Laing, Chris",
+      "Baker, Clifton R.",
+      "Peterson, Kelly",
+      "Reeves, Ruth",
+      "Hassabis, Demis",
+      "King, Dominic",
+      "Suleyman, Mustafa",
+      "Back, Trevor",
+      "Nielson, Christopher",
+      "Ledsam, Joseph R.",
+      "Mohamed, Shakir"
+    ],
+    "title": "A clinically applicable approach to continuous prediction of future acute kidney injury",
+    "year": 2019,
+    "container": "Nature",
+    "volume": "572",
+    "page": "116-119",
+    "doi": "10.1038/s41586-019-1390-1",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "authors": [
+      "Zhang, Li",
+      "Li, Mingyu",
+      "Wang, Chengcheng",
+      "Zhang, Chi",
+      "Wu, Hong"
+    ],
+    "title": "Prediction of acute kidney injury in intensive care unit patients based on interpretable machine learning",
+    "year": 2025,
+    "container": "DIGITAL HEALTH",
+    "volume": "11",
+    "page": null,
+    "doi": "10.1177/20552076241311173",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "authors": [
+      "Wainstein, Marina",
+      "Flanagan, Emily",
+      "Johnson, David W.",
+      "Shrapnel, Sally"
+    ],
+    "title": "Systematic review of externally validated machine learning models for predicting acute kidney injury in general hospital patients",
+    "year": 2023,
+    "container": "Frontiers in Nephrology",
+    "volume": "3",
+    "page": null,
+    "doi": "10.3389/fneph.2023.1220214",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "authors": [
+      "Persson, Inger",
+      "Grunwald, Adam",
+      "Morvan, Ludivine",
+      "Becedas, David",
+      "Arlbrandt, Martin"
+    ],
+    "title": "A Machine Learning Algorithm Predicting Acute Kidney Injury in Intensive Care Unit Patients (NAVOY Acute Kidney Injury): Proof-of-Concept Study",
+    "year": 2023,
+    "container": "JMIR Formative Research",
+    "volume": "7",
+    "page": "e45979",
+    "doi": "10.2196/45979",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "authors": [
+      "Nateghi Haredasht, Fateme",
+      "Viaene, Liesbeth",
+      "Pottel, Hans",
+      "De Corte, Wouter",
+      "Vens, Celine"
+    ],
+    "title": "Predicting outcomes of acute kidney injury in critically ill patients using machine learning",
+    "year": 2023,
+    "container": "Scientific Reports",
+    "volume": "13",
+    "page": null,
+    "doi": "10.1038/s41598-023-36782-1",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "authors": [
+      "Shi, Jianshan",
+      "Han, Huirui",
+      "Chen, Song",
+      "Liu, Wei",
+      "Li, Yanfen"
+    ],
+    "title": "Machine learning for prediction of acute kidney injury in patients diagnosed with sepsis in critical care",
+    "year": 2024,
+    "container": "PLOS ONE",
+    "volume": "19",
+    "page": "e0301014",
+    "doi": "10.1371/journal.pone.0301014",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "source": "crossref",
+    "title": "The eICU Collaborative Research Database, a freely available multi-center database for critical care research",
+    "doi": "10.1038/sdata.2018.178",
+    "year": 2018,
+    "container": "Scientific Data",
+    "type": "journal-article",
+    "authors": [
+      "Pollard",
+      "Johnson",
+      "Raffa",
+      "Celi",
+      "Mark",
+      "Badawi"
+    ],
+    "url": "https://doi.org/10.1038/sdata.2018.178",
+    "sim": 1.0,
+    "thread": "data"
+  },
+  {
+    "authors": [
+      "Johnson, Alistair E. W.",
+      "Bulgarelli, Lucas",
+      "Shen, Lu",
+      "Gayles, Alvin",
+      "Shammout, Ayad",
+      "Horng, Steven",
+      "Pollard, Tom J.",
+      "Hao, Sicheng",
+      "Moody, Benjamin",
+      "Gow, Brian",
+      "Lehman, Li-wei H.",
+      "Celi, Leo A.",
+      "Mark, Roger G."
+    ],
+    "title": "MIMIC-IV, a freely accessible electronic health record dataset",
+    "year": 2023,
+    "container": "Scientific Data",
+    "volume": "10",
+    "page": null,
+    "doi": "10.1038/s41597-022-01899-x",
+    "type": "journal-article",
+    "thread": "data"
+  },
+  {
+    "authors": [
+      "Chen, Tianqi",
+      "Guestrin, Carlos"
+    ],
+    "title": "XGBoost: A Scalable Tree Boosting System",
+    "year": 2016,
+    "container": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+    "volume": null,
+    "page": "785-794",
+    "doi": "10.1145/2939672.2939785",
+    "type": "proceedings-article",
+    "thread": "classical-methods"
+  },
+  {
+    "authors": [
+      "Lundberg, Scott",
+      "Lee, Su-In"
+    ],
+    "title": "A Unified Approach to Interpreting Model Predictions",
+    "year": 2017,
+    "arxiv_id": "1705.07874",
+    "container": null,
+    "doi": null,
+    "thread": "classical-methods"
+  },
+  {
+    "authors": [
+      "DeLong, Elizabeth R.",
+      "DeLong, David M.",
+      "Clarke-Pearson, Daniel L."
+    ],
+    "title": "Comparing the Areas under Two or More Correlated Receiver Operating Characteristic Curves: A Nonparametric Approach",
+    "year": 1988,
+    "container": "Biometrics",
+    "volume": "44",
+    "page": "837",
+    "doi": "10.2307/2531595",
+    "type": "journal-article",
+    "thread": "classical-methods"
+  },
+  {
+    "authors": [
+      "Rajput, Nikhil Kumar",
+      "Bansal, Riya"
+    ],
+    "title": "Quantum State Preparation for Medical Data: Comprehensive Methods, Implementation Challenges, and Clinical Prospects",
+    "year": 2025,
+    "arxiv_id": "2508.05063",
+    "container": null,
+    "doi": null,
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Gross, Markus",
+      "Lange, Markus",
+      "Bujnowski, Bogusz",
+      "Rieser, Hans-Martin"
+    ],
+    "title": "Expressivity vs. Generalization in Quantum Kernel Methods",
+    "year": 2025,
+    "container": "ESANN 2025 proceesdings",
+    "volume": null,
+    "page": "543-548",
+    "doi": "10.14428/esann/2025.es2025-152",
+    "type": "proceedings-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Thanasilp, Supanut",
+      "Wang, Samson",
+      "Cerezo, M.",
+      "Holmes, Zoe"
+    ],
+    "title": "Exponential concentration in quantum kernel methods",
+    "year": 2024,
+    "container": "Nature Communications",
+    "volume": "15",
+    "page": null,
+    "doi": "10.1038/s41467-024-49287-w",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Caro, Matthias C.",
+      "Huang, Hsin-Yuan",
+      "Cerezo, M.",
+      "Sharma, Kunal",
+      "Sornborger, Andrew",
+      "Cincio, Lukasz",
+      "Coles, Patrick J."
+    ],
+    "title": "Generalization in quantum machine learning from few training data",
+    "year": 2022,
+    "container": "Nature Communications",
+    "volume": "13",
+    "page": null,
+    "doi": "10.1038/s41467-022-32550-3",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Wang, Samson",
+      "Fontana, Enrico",
+      "Cerezo, M.",
+      "Sharma, Kunal",
+      "Sone, Akira",
+      "Cincio, Lukasz",
+      "Coles, Patrick J."
+    ],
+    "title": "Noise-induced barren plateaus in variational quantum algorithms",
+    "year": 2021,
+    "container": "Nature Communications",
+    "volume": "12",
+    "page": null,
+    "doi": "10.1038/s41467-021-27045-6",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Mari, Andrea",
+      "Bromley, Thomas R.",
+      "Izaac, Josh",
+      "Schuld, Maria",
+      "Killoran, Nathan"
+    ],
+    "title": "Transfer learning in hybrid classical-quantum neural networks",
+    "year": 2020,
+    "container": "Quantum",
+    "volume": "4",
+    "page": "340",
+    "doi": "10.22331/q-2020-10-09-340",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Li, Yike",
+      "Xiao, Mingyang",
+      "Li, Yaqian",
+      "Lv, Lulu",
+      "Zhang, Shanshan",
+      "Liu, Yuhui",
+      "Zhang, Juan"
+    ],
+    "title": "Machine Learning for the Prediction of Acute Kidney Injury in Critically Ill Patients With Coronary Heart Disease: Algorithm Development and Validation",
+    "year": 2025,
+    "container": "JMIR Medical Informatics",
+    "volume": "13",
+    "page": "e72349",
+    "doi": "10.2196/72349",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "authors": [
+      "Qin, Huayang",
+      "Wu, Qimeng",
+      "Tan, Jiaxiong",
+      "Tong, Xiaoxin",
+      "Zhang, Haifang",
+      "Yang, Yuping",
+      "Lai, Weicheng",
+      "Song, Ge",
+      "Du, Shenshen"
+    ],
+    "title": "Development of a machine learning-based prediction model for acute kidney injury associated with respiratory failure in the intensive care unit",
+    "year": 2025,
+    "container": "Clinical and Experimental Medicine",
+    "volume": "25",
+    "page": null,
+    "doi": "10.1007/s10238-025-01873-y",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "authors": [
+      "Su, Chen\u2010Yang",
+      "Hasebe, Masashi"
+    ],
+    "title": "Machine Learning Models for Predicting Acute and Chronic Kidney Diseases During the Post\u2010Covid\u201019 Pandemic",
+    "year": 2025,
+    "container": "Nephrology",
+    "volume": "30",
+    "page": null,
+    "doi": "10.1111/nep.70097",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "authors": [
+      "Li, Xunliang",
+      "Wang, Peng",
+      "Zhu, Yuke",
+      "Zhao, Wenman",
+      "Pan, Haifeng",
+      "Wang, Deguang"
+    ],
+    "title": "Interpretable machine learning model for predicting acute kidney injury in critically ill patients",
+    "year": 2024,
+    "container": "BMC Medical Informatics and Decision Making",
+    "volume": "24",
+    "page": null,
+    "doi": "10.1186/s12911-024-02537-9",
+    "type": "journal-article",
+    "thread": "classical-aki"
+  },
+  {
+    "authors": [
+      "Repetto, Valeria",
+      "Ceroni, Elia Giuseppe",
+      "Buonaiuto, Giuseppe",
+      "D\u2019Aurizio, Romina"
+    ],
+    "title": "Quantum enhanced stratification of breast cancer: exploring quantum expressivity for real omics data",
+    "year": 2025,
+    "container": "Quantum Machine Intelligence",
+    "volume": "7",
+    "page": null,
+    "doi": "10.1007/s42484-025-00289-x",
+    "type": "journal-article",
+    "thread": "qml-health"
+  },
+  {
+    "authors": [
+      "Wei, Lin",
+      "Liu, Haowen",
+      "Xu, Jing",
+      "Shi, Lei",
+      "Shan, Zheng",
+      "Zhao, Bo",
+      "Gao, Yufei"
+    ],
+    "title": "Quantum machine learning in medical image analysis: A survey",
+    "year": 2023,
+    "container": "Neurocomputing",
+    "volume": "525",
+    "page": "42-53",
+    "doi": "10.1016/j.neucom.2023.01.049",
+    "type": "journal-article",
+    "thread": "qml-health"
+  },
+  {
+    "authors": [
+      "Kubler, Jonas M.",
+      "Buchholz, Simon",
+      "Scholkopf, Bernhard"
+    ],
+    "title": "The Inductive Bias of Quantum Kernels",
+    "year": 2021,
+    "arxiv_id": "2106.03747",
+    "container": null,
+    "doi": null,
+    "thread": "qml-inductive-bias"
+  },
+  {
+    "source": "arxiv",
+    "title": "Contextuality and inductive bias in quantum machine learning",
+    "url": "http://arxiv.org/abs/2302.01365v3",
+    "arxiv_id": "2302.01365",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Bowles",
+      "Wright",
+      "Farkas",
+      "Killoran",
+      "Schuld"
+    ],
+    "sim": 1.0,
+    "thread": "qml-inductive-bias"
+  },
+  {
+    "authors": [
+      "Gili, Kaitlin",
+      "Alonso, Guillermo",
+      "Schuld, Maria"
+    ],
+    "title": "An inductive bias from quantum mechanics: learning order effects with non-commuting measurements",
+    "year": 2024,
+    "container": "Quantum Machine Intelligence",
+    "volume": "6",
+    "page": null,
+    "doi": "10.1007/s42484-024-00200-0",
+    "type": "journal-article",
+    "thread": "qml-inductive-bias"
+  },
+  {
+    "authors": [
+      "Gil-Fuster, Elies",
+      "Eisert, Jens",
+      "Bravo-Prieto, Carlos"
+    ],
+    "title": "Understanding quantum machine learning also requires rethinking generalization",
+    "year": 2024,
+    "container": "Nature Communications",
+    "volume": "15",
+    "page": null,
+    "doi": "10.1038/s41467-024-45882-z",
+    "type": "journal-article",
+    "thread": "qml-inductive-bias"
+  },
+  {
+    "source": "arxiv",
+    "title": "Do Quantum Neural Networks have Simplicity Bias?",
+    "url": "http://arxiv.org/abs/2407.03266v1",
+    "arxiv_id": "2407.03266",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Pointing"
+    ],
+    "sim": 1.0,
+    "thread": "qml-inductive-bias"
+  },
+  {
+    "authors": [
+      "Cordier, Benjamin A.",
+      "Sawaya, Nicolas P. D.",
+      "Guerreschi, Gian Giacomo",
+      "McWeeney, Shannon K."
+    ],
+    "title": "Biology and medicine in the landscape of quantum advantages",
+    "year": 2022,
+    "container": "Journal of The Royal Society Interface",
+    "volume": "19",
+    "page": null,
+    "doi": "10.1098/rsif.2022.0541",
+    "type": "journal-article",
+    "thread": "qml-health"
+  },
+  {
+    "authors": [
+      "Herrmann, Nils",
+      "Arya, Daanish",
+      "Doherty, Marcus W.",
+      "Mingare, Angus",
+      "Pillay, Jason C.",
+      "Preis, Florian",
+      "Prestel, Stefan"
+    ],
+    "title": "Quantum utility \u2013 definition and assessment of a practical quantum advantage",
+    "year": 2023,
+    "container": "2023 IEEE International Conference on Quantum Software (QSW)",
+    "volume": null,
+    "page": "162-174",
+    "doi": "10.1109/qsw59989.2023.00028",
+    "type": "proceedings-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "de Lima, Gubio Gomes",
+      "de S. Farias, Tiago",
+      "Ricardo, Alexandre C.",
+      "Boas, Celso Jorge Villa"
+    ],
+    "title": "Assessing the advantages and limitations of quantum neural networks in regression tasks",
+    "year": 2026,
+    "container": "Quantum Machine Intelligence",
+    "volume": "8",
+    "page": null,
+    "doi": "10.1007/s42484-026-00370-z",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Li, Yanan",
+      "Wang, Zhimin",
+      "Han, Rongbing",
+      "Shi, Shangshang",
+      "Li, Jiaxin",
+      "Shang, Ruimin",
+      "Zheng, Haiyong",
+      "Zhong, Guoqiang",
+      "Gu, Yongjian"
+    ],
+    "title": "Quantum recurrent neural networks for sequential learning",
+    "year": 2023,
+    "container": "Neural Networks",
+    "volume": "166",
+    "page": "148-161",
+    "doi": "10.1016/j.neunet.2023.07.003",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Bausch, Johannes"
+    ],
+    "title": "Recurrent Quantum Neural Networks",
+    "year": 2020,
+    "arxiv_id": "2006.14619",
+    "container": null,
+    "doi": null,
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Bowles, Joseph",
+      "Ahmed, Shahnawaz",
+      "Schuld, Maria"
+    ],
+    "title": "Better than classical? The subtle art of benchmarking quantum machine learning models",
+    "year": 2024,
+    "arxiv_id": "2403.07059",
+    "container": null,
+    "doi": null,
+    "thread": "qml-benchmarking"
+  },
+  {
+    "authors": [
+      "Kapoor, Sayash",
+      "Narayanan, Arvind"
+    ],
+    "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+    "year": 2023,
+    "container": "Patterns",
+    "volume": "4",
+    "page": "100804",
+    "doi": "10.1016/j.patter.2023.100804",
+    "type": "journal-article",
+    "thread": "methodology"
+  },
+  {
+    "authors": [
+      "Gillani, Syeda Anshrah",
+      "Baig, Mirza Samad Ahmed",
+      "Shah, Shahid Munir",
+      "Ali, Asher",
+      "Siddiqui, Hamzah"
+    ],
+    "title": "How Quantum Is the Advantage? A Fair, Calibration- and Noise-Aware Benchmark and Attribution Audit of Quantum Machine Learning for Network Intrusion Detection",
+    "year": 2026,
+    "arxiv_id": "2608.18155",
+    "container": null,
+    "doi": null,
+    "thread": "qml-benchmarking"
+  },
+  {
+    "authors": [
+      "Kruse, Georg",
+      "Coelho, Rodrigo",
+      "Rosskopf, Andreas",
+      "Wille, Robert",
+      "Lorenz, Jeanette-Miriam"
+    ],
+    "title": "Benchmarking Quantum Reinforcement Learning",
+    "year": 2025,
+    "container": "Proceedings of the 17th International Conference on Agents and Artificial Intelligence",
+    "volume": null,
+    "page": "773-782",
+    "doi": "10.5220/0013393200003890",
+    "type": "proceedings-article",
+    "thread": "qml-benchmarking"
+  },
+  {
+    "authors": [
+      "Mancilla, Javier",
+      "Pere, Christophe"
+    ],
+    "title": "A Preprocessing Perspective for Quantum Machine Learning Classification Advantage in Finance Using NISQ Algorithms",
+    "year": 2022,
+    "container": "Entropy",
+    "volume": "24",
+    "page": "1656",
+    "doi": "10.3390/e24111656",
+    "type": "journal-article",
+    "thread": "qml-benchmarking"
+  },
+  {
+    "authors": [
+      "Biamonte, Jacob",
+      "Wittek, Peter",
+      "Pancotti, Nicola",
+      "Rebentrost, Patrick",
+      "Wiebe, Nathan",
+      "Lloyd, Seth"
+    ],
+    "title": "Quantum machine learning",
+    "year": 2017,
+    "container": "Nature",
+    "volume": "549",
+    "page": "195-202",
+    "doi": "10.1038/nature23474",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Cerezo, M.",
+      "Arrasmith, Andrew",
+      "Babbush, Ryan",
+      "Benjamin, Simon C.",
+      "Endo, Suguru",
+      "Fujii, Keisuke",
+      "McClean, Jarrod R.",
+      "Mitarai, Kosuke",
+      "Yuan, Xiao",
+      "Cincio, Lukasz",
+      "Coles, Patrick J."
+    ],
+    "title": "Variational quantum algorithms",
+    "year": 2021,
+    "container": "Nature Reviews Physics",
+    "volume": "3",
+    "page": "625-644",
+    "doi": "10.1038/s42254-021-00348-9",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Hochreiter, Sepp",
+      "Schmidhuber, Jurgen"
+    ],
+    "title": "Long Short-Term Memory",
+    "year": 1997,
+    "container": "Neural Computation",
+    "volume": "9",
+    "page": "1735-1780",
+    "doi": "10.1162/neco.1997.9.8.1735",
+    "type": "journal-article",
+    "thread": "classical-methods"
+  },
+  {
+    "authors": [
+      "Hoste, Eric A. J.",
+      "Bagshaw, Sean M.",
+      "Bellomo, Rinaldo",
+      "Cely, Cynthia M.",
+      "Colman, Roos",
+      "Cruz, Dinna N.",
+      "Edipidis, Kyriakos",
+      "Forni, Lui G.",
+      "Gomersall, Charles D.",
+      "Govil, Deepak",
+      "Honore, Patrick M.",
+      "Joannes-Boyau, Olivier",
+      "Joannidis, Michael",
+      "Korhonen, Anna-Maija",
+      "Lavrentieva, Athina",
+      "Mehta, Ravindra L.",
+      "Palevsky, Paul",
+      "Roessler, Eric",
+      "Ronco, Claudio",
+      "Uchino, Shigehiko",
+      "Vazquez, Jorge A.",
+      "Vidal Andrade, Erick",
+      "Webb, Steve",
+      "Kellum, John A."
+    ],
+    "title": "Epidemiology of acute kidney injury in critically ill patients: the multinational AKI-EPI study",
+    "year": 2015,
+    "container": "Intensive Care Medicine",
+    "volume": "41",
+    "page": "1411-1423",
+    "doi": "10.1007/s00134-015-3934-7",
+    "type": "journal-article",
+    "thread": "clinical"
+  },
+  {
+    "authors": [
+      "Khwaja, Arif"
+    ],
+    "title": "KDIGO Clinical Practice Guidelines for Acute Kidney Injury",
+    "year": 2012,
+    "container": "Nephron Clinical Practice",
+    "volume": "120",
+    "page": "c179-c184",
+    "doi": "10.1159/000339789",
+    "type": "journal-article",
+    "thread": "clinical"
+  },
+  {
+    "authors": [
+      "Perez-Salinas, Adrian",
+      "Cervera-Lierta, Alba",
+      "Gil-Fuster, Elies",
+      "Latorre, Jose I."
+    ],
+    "title": "Data re-uploading for a universal quantum classifier",
+    "year": 2020,
+    "container": "Quantum",
+    "volume": "4",
+    "page": "226",
+    "doi": "10.22331/q-2020-02-06-226",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Beer, Kerstin",
+      "Bondarenko, Dmytro",
+      "Farrelly, Terry",
+      "Osborne, Tobias J.",
+      "Salzmann, Robert",
+      "Scheiermann, Daniel",
+      "Wolf, Ramona"
+    ],
+    "title": "Training deep quantum neural networks",
+    "year": 2020,
+    "container": "Nature Communications",
+    "volume": "11",
+    "page": null,
+    "doi": "10.1038/s41467-020-14454-2",
+    "type": "journal-article",
+    "thread": "qml-methods"
+  },
+  {
+    "authors": [
+      "Chen, Samuel Yen-Chi",
+      "Yoo, Shinjae",
+      "Fang, Yao-Lung L."
+    ],
+    "title": "Quantum Long Short-Term Memory",
+    "year": 2022,
+    "container": "ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "volume": null,
+    "page": "8622-8626",
+    "doi": "10.1109/icassp43922.2022.9747369",
+    "type": "proceedings-article",
+    "thread": "qml-methods"
+  }
+]
