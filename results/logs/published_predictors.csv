@@ -1,6 +1,6 @@
 study,doi,cohort,endpoint,horizon,reported,verified_from
-Tomasev 2019,10.1038/s41586-019-1390-1,"703,782 patients; 172 inpatient sites",inpatient AKI,up to 48 h,"55.8% of episodes at 2 false alerts per true alert",Europe PMC abstract (10 Nov 2026)
-Alfieri 2023,10.1371/journal.pone.0287398,"16,760 patients; 145 centres",KDIGO stage 2-3,>=14 h,"AUROC 0.884 internal; 0.877 and 0.911 external",Europe PMC abstract (10 Nov 2026)
-Persson 2023,10.2196/45979,MIMIC-IV adult ICU,KDIGO,12 h,"AUROC 0.91; AUPRC 0.75",Europe PMC abstract (10 Nov 2026)
-Lyu 2024,10.1093/bioinformatics/btae212,multi-disciplinary ICU,KDIGO incl. urine output,not stated in abstract,"AUPRC 0.657 GBDT; 0.626 LSTM",Europe PMC abstract (10 Nov 2026)
+Tomasev 2019,10.1038/s41586-019-1390-1,"703,782 patients; 172 inpatient sites",inpatient AKI,up to 48 h,55.8% of episodes at 2 false alerts per true alert,Europe PMC abstract (10 Nov 2026)
+Alfieri 2023,10.1371/journal.pone.0287398,"16,760 patients; 145 centres",KDIGO stage 2-3,>=14 h,AUROC 0.884 internal; 0.877 and 0.911 external,Europe PMC abstract (10 Nov 2026)
+Persson 2023,10.2196/45979,"MIMIC-IV adult ICU, sampled to 22% prevalence",KDIGO stage 2-3,12 h,AUROC 0.91; AUPRC 0.71 hold-out (0.75 training),PMC10755657 full text (20 Nov 2026)
+Lyu 2024,10.1093/bioinformatics/btae212,multi-disciplinary ICU,KDIGO incl. urine output,not stated in abstract,AUPRC 0.657 GBDT; 0.626 LSTM,Europe PMC abstract (10 Nov 2026)
 eICU-CRD full release,10.1038/sdata.2018.178,"over 200,000 admissions",,,,Europe PMC abstract (10 Nov 2026)
